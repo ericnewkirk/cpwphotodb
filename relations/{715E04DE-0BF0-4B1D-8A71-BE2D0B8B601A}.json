@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{715E04DE-0BF0-4B1D-8A71-BE2D0B8B601A}",
+    "Attributes": 4352,
+    "Table": "Observers",
+    "ForeignTable": "ObsPhone",
+    "Fields": [
+      {
+        "Name": "ObserverID",
+        "ForeignName": "ObserverID"
+      }
+    ]
+  }
+}

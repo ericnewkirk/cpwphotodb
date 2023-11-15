@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "VisitsVisits",
+    "Attributes": 0,
+    "Table": "Visits",
+    "ForeignTable": "Visits",
+    "Fields": [
+      {
+        "Name": "VisitID",
+        "ForeignName": "SetVisitID"
+      }
+    ]
+  }
+}

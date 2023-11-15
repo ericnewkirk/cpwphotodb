@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{04B5E5FF-0896-4391-8238-6E68199ADD59}",
+    "Attributes": 4353,
+    "Table": "DetectionDetails",
+    "ForeignTable": "DetailShortcuts",
+    "Fields": [
+      {
+        "Name": "DetailID",
+        "ForeignName": "DetailID"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3187 @@
+﻿{
+  "Info": {
+    "Class": "clsDbNavPaneGroup",
+    "Description": "Navigation Pane Custom Groups",
+    "Export File Format": 1.1
+  },
+  "Items": {
+    "Categories": [
+      {
+        "Name": "Custom",
+        "Flags": 0,
+        "Position": 3,
+        "Groups": [
+          {
+            "Name": "Camera Data Tables",
+            "Flags": 2,
+            "Position": 3,
+            "Objects": [
+              {
+                "Name": "CameraLocations",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "Detections",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "IndDetGroups",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "IndependentDetections",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "IndividualDetections",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "Photos",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "StudyAreas",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "Visits",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              }
+            ]
+          },
+          {
+            "Name": "Code",
+            "Flags": 3,
+            "Position": 14,
+            "Objects": [
+              {
+                "Name": "CoordinateConverter",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "CustomFunctions",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "FunctionsForPhotoID",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "NewFunctions2016",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "OtherFunctions",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              }
+            ]
+          },
+          {
+            "Name": "Forms",
+            "Flags": 2,
+            "Position": 9,
+            "Objects": [
+              {
+                "Name": "ActivityQueryBuilder",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0,
+                "NameInGroup": "Activity Query Builder"
+              },
+              {
+                "Name": "CameraLocations",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1,
+                "NameInGroup": "Camera Locations"
+              },
+              {
+                "Name": "CreditsForm",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2,
+                "NameInGroup": "Credits"
+              },
+              {
+                "Name": "DetectionDetails",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3,
+                "NameInGroup": "Detection Details"
+              },
+              {
+                "Name": "DetectionSummaryQueryBuilder",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 19,
+                "NameInGroup": "Detection Summary Query Builder"
+              },
+              {
+                "Name": "FlatFileQueryBuilder",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 22,
+                "NameInGroup": "Flat File Query Builder"
+              },
+              {
+                "Name": "Help",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "ImportModule",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5,
+                "NameInGroup": "Import Module"
+              },
+              {
+                "Name": "ImportOptions",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6,
+                "NameInGroup": "Import Options"
+              },
+              {
+                "Name": "IndividualID",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 16
+              },
+              {
+                "Name": "Individuals",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "Observers",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "OccupancyQueryBuilder",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9,
+                "NameInGroup": "Occupancy Query Builder"
+              },
+              {
+                "Name": "PhotoID",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 20,
+                "NameInGroup": "Photo ID"
+              },
+              {
+                "Name": "PhotoViewer",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 21
+              },
+              {
+                "Name": "ReportOptions",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10,
+                "NameInGroup": "Report Options"
+              },
+              {
+                "Name": "SECRQueryBuilder",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 23
+              },
+              {
+                "Name": "SpatialQueryBuilder",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 18,
+                "NameInGroup": "Spatial Query Builder"
+              },
+              {
+                "Name": "Species",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "SpeciesGroups",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 17,
+                "NameInGroup": "Species Groups"
+              },
+              {
+                "Name": "StudyAreas",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 12,
+                "NameInGroup": "Study Areas"
+              },
+              {
+                "Name": "Switchboard",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 13
+              },
+              {
+                "Name": "UpdateImagePath",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 15
+              },
+              {
+                "Name": "Visits",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14
+              }
+            ]
+          },
+          {
+            "Name": "Hidden Forms (Functional/Popup)",
+            "Flags": 3,
+            "Position": 11,
+            "Objects": [
+              {
+                "Name": "AddIndDetections",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "AddVisitPopup",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "AdjustImageDates",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 12
+              },
+              {
+                "Name": "APZones",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "CopyPhotos",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "DeletePhotos",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "EditActiveDates",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "EditShortcuts",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "ExportQuery",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "ImportData",
+                "Type": -32768,
+                "Flags": 1,
+                "Icon": 0,
+                "Position": 18
+              },
+              {
+                "Name": "Maintenance",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 16
+              },
+              {
+                "Name": "PhotoIDLogin",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "PhotoViewerQueryResults",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 13
+              },
+              {
+                "Name": "QueryBuilders",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 17
+              },
+              {
+                "Name": "SingleVisitPopup",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14
+              },
+              {
+                "Name": "SpeciesTemp",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "Startup",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9
+              },
+              {
+                "Name": "UpdateDriveLetter",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10
+              },
+              {
+                "Name": "VisitModule",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 15
+              }
+            ]
+          },
+          {
+            "Name": "Hidden Forms (Subforms)",
+            "Flags": 3,
+            "Position": 10,
+            "Objects": [
+              {
+                "Name": "AdjustIndDet",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "APChart",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "BatchPhotoID",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "CamFilmStrip",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 20
+              },
+              {
+                "Name": "CurrentObserverSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "DeleteVisitPhotos",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "DetailsShortcutSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "EditActiveDatesSingle",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "IndDetFilmStrip",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "IndDetGroupsSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 23
+              },
+              {
+                "Name": "IndIDDetectionsSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "IndRefPhotos",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9
+              },
+              {
+                "Name": "MergeDetails",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10
+              },
+              {
+                "Name": "MergeInd",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "MergeSpecies",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 24
+              },
+              {
+                "Name": "ObsPhoneSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 12
+              },
+              {
+                "Name": "PhotoIDClose",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 13
+              },
+              {
+                "Name": "PhotoIDDetectionsSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14
+              },
+              {
+                "Name": "PhotoIDDSModule",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 15
+              },
+              {
+                "Name": "PhotoIDModule",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 16
+              },
+              {
+                "Name": "PhotosSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 17
+              },
+              {
+                "Name": "SetRefPhotoPopup",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 18
+              },
+              {
+                "Name": "SpeciesShortcutSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 19
+              },
+              {
+                "Name": "VisitsSubformList",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 21
+              },
+              {
+                "Name": "VisitsSubformSingle",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 22
+              }
+            ]
+          },
+          {
+            "Name": "Hidden Queries",
+            "Flags": 1,
+            "Position": 8,
+            "Objects": [
+              {
+                "Name": "ActivityPatternQuery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 39
+              },
+              {
+                "Name": "CopyTestDupFileNames",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "DetailsRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9
+              },
+              {
+                "Name": "FilmStripRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 42
+              },
+              {
+                "Name": "MarkRecaptureQuery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 35
+              },
+              {
+                "Name": "PhotoIDCompare",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10
+              },
+              {
+                "Name": "PhotoIDNeedID",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "PhotoIDRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 12
+              },
+              {
+                "Name": "qryAccessRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 13
+              },
+              {
+                "Name": "qryAdjustImageDates",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 46
+              },
+              {
+                "Name": "qryAdjustIndDetRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14
+              },
+              {
+                "Name": "qryAllPhotoObsInits",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 15
+              },
+              {
+                "Name": "qryBatchIDRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 16
+              },
+              {
+                "Name": "qryCameraLocationsByName",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 47
+              },
+              {
+                "Name": "qryCameraPullRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 17
+              },
+              {
+                "Name": "qryCRSubquery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 59
+              },
+              {
+                "Name": "qryCurrentObserverName",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 18
+              },
+              {
+                "Name": "qryDeleteNewDetections",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 29
+              },
+              {
+                "Name": "qryEditActiveDates",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 19
+              },
+              {
+                "Name": "qryIndDetBySpLocSubquery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 52
+              },
+              {
+                "Name": "qryIndDetBySpSubquery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 53
+              },
+              {
+                "Name": "qryIndDetFilmStripRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 20
+              },
+              {
+                "Name": "qryIndDetGroupsSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 54
+              },
+              {
+                "Name": "qryIndDetKnownIndividuals",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 55
+              },
+              {
+                "Name": "qryIndDetNeedID",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 21
+              },
+              {
+                "Name": "qryIndDetNeedSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 51
+              },
+              {
+                "Name": "qryIndDetRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 22
+              },
+              {
+                "Name": "qryIndDetReport",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 23
+              },
+              {
+                "Name": "qryIndividualDetections",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 36
+              },
+              {
+                "Name": "qryMakeAPTable",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "qryMarkEffort",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 37
+              },
+              {
+                "Name": "qryModDeleteExisting",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "qryModDeleteMatching",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "qryModImportDetails",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "qryModImportDetections",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "qryModImportObs",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "qryModImportObsPhone",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "qryModImportPhotoTags",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 56
+              },
+              {
+                "Name": "qryModImportSpecies",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "qryModuleResults",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 24
+              },
+              {
+                "Name": "qryModUpdateDetails",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 30
+              },
+              {
+                "Name": "qryModUpdateFlags",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 40
+              },
+              {
+                "Name": "qryModUpdateHighlights",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 31
+              },
+              {
+                "Name": "qryModUpdateObs",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 32
+              },
+              {
+                "Name": "qryModUpdateSpecies",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 33
+              },
+              {
+                "Name": "qryPhotoIDSummarySubquery1",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 25
+              },
+              {
+                "Name": "qryPhotoIDSummarySubquery2",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 26
+              },
+              {
+                "Name": "qryPhotoSpecies",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 41
+              },
+              {
+                "Name": "qryPVComboRowSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 43
+              },
+              {
+                "Name": "qryPVComboWithDetails",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 44
+              },
+              {
+                "Name": "qryPVComboWithSpecies",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 45
+              },
+              {
+                "Name": "qrySECRDetSubquery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 38
+              },
+              {
+                "Name": "qrySpPivotPending",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 58
+              },
+              {
+                "Name": "qrySpPivotVerified",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 57
+              },
+              {
+                "Name": "qryTrapNightsByLoc",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 50
+              },
+              {
+                "Name": "qryValidDetections",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 27
+              },
+              {
+                "Name": "qryVerifyMatchingDetections",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 34
+              },
+              {
+                "Name": "qryVerifyMatchingDetectionsNoDetail",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 49
+              },
+              {
+                "Name": "qryVisitsRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 48
+              },
+              {
+                "Name": "SpeciesRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 28
+              }
+            ]
+          },
+          {
+            "Name": "Hidden Reports",
+            "Flags": 3,
+            "Position": 13,
+            "Objects": [
+              {
+                "Name": "CamDeploymentSummarySubreport",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "CamStudyAreaSpSubreport",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "CamStudyAreaSummarySubreport",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "CamStudyAreaSummarySubreportNoSp",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9
+              },
+              {
+                "Name": "CamYearSpSubreport",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "DetailShortcutList",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "License",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10
+              },
+              {
+                "Name": "LicenseItems",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "ObserversSubreport",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "ObsPhoneSubreport",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "Shortcuts",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "SpShortcutList",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              }
+            ]
+          },
+          {
+            "Name": "Hidden Tables",
+            "Flags": 3,
+            "Position": 1,
+            "Objects": [
+              {
+                "Name": "ChartHours",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "CurrentObserver",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "Help",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "LicenseHeadings",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10
+              },
+              {
+                "Name": "LicenseItems",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "lkupExports",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "lkupMaintenanceTasks",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "lkupQueryBuilders",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "lkupReportNames",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "PhotoTags",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9
+              },
+              {
+                "Name": "SwitchboardItems",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "Version",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              }
+            ]
+          },
+          {
+            "Name": "Lookup Tables",
+            "Flags": 2,
+            "Position": 4,
+            "Objects": [
+              {
+                "Name": "lkupAgeClass",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "lkupDetectionStatus",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "lkupGender",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "lkupPhoneTypes",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "lkupVisitTypes",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              }
+            ]
+          },
+          {
+            "Name": "My Queries",
+            "Flags": 2,
+            "Position": 2,
+            "Objects": [
+            ]
+          },
+          {
+            "Name": "Other Tables",
+            "Flags": 2,
+            "Position": 5,
+            "Objects": [
+              {
+                "Name": "DetailShortcuts",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "DetectionDetails",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "Individuals",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "Observers",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "ObsPhone",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "Species",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "SpeciesGroups",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "SpeciesShortcuts",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              }
+            ]
+          },
+          {
+            "Name": "Queries",
+            "Flags": 2,
+            "Position": 6,
+            "Objects": [
+              {
+                "Name": "DetectionSummaryQuery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 13,
+                "NameInGroup": "Detection Summary Query"
+              },
+              {
+                "Name": "MissingPhotoFolders",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0,
+                "NameInGroup": "Missing Photo Folders"
+              },
+              {
+                "Name": "MissingPhotos",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1,
+                "NameInGroup": "Missing Photos"
+              },
+              {
+                "Name": "OccupancyQuery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2,
+                "NameInGroup": "Occupancy Query"
+              },
+              {
+                "Name": "PhotoViewerQuery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3,
+                "NameInGroup": "Photo Viewer Query"
+              },
+              {
+                "Name": "qryCamDeploymentSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4,
+                "NameInGroup": "Deployment Summary"
+              },
+              {
+                "Name": "qryCamStudyAreaSpSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5,
+                "NameInGroup": "Species by Study Area"
+              },
+              {
+                "Name": "qryCamStudyAreaSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6,
+                "NameInGroup": "Study Area Summary"
+              },
+              {
+                "Name": "qryCamYearSpSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7,
+                "NameInGroup": "Species by Year"
+              },
+              {
+                "Name": "qryCamYearSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8,
+                "NameInGroup": "Year Summary"
+              },
+              {
+                "Name": "qryFlatFilePending",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14,
+                "NameInGroup": "Flat File Pending"
+              },
+              {
+                "Name": "qryFlatFileVerified",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 15,
+                "NameInGroup": "Flat File Verified"
+              },
+              {
+                "Name": "qryObsComparison",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9,
+                "NameInGroup": "Observer Comparison"
+              },
+              {
+                "Name": "qryPhotoIDSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10,
+                "NameInGroup": "Photo ID Summary"
+              },
+              {
+                "Name": "qryPivotPending",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 16,
+                "NameInGroup": "Pivot Pending"
+              },
+              {
+                "Name": "qryPivotVerified",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 17,
+                "NameInGroup": "Pivot Verified"
+              },
+              {
+                "Name": "SECRDetectorQuery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 12,
+                "NameInGroup": "SECR Detector Query"
+              },
+              {
+                "Name": "SECRQuery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11,
+                "NameInGroup": "SECR Query"
+              }
+            ]
+          },
+          {
+            "Name": "Reports",
+            "Flags": 2,
+            "Position": 12,
+            "Objects": [
+              {
+                "Name": "AccessNotes",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "AllHelp",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "CameraPullChecklist",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "CameraSummary",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "CameraSummaryNoSp",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8,
+                "NameInGroup": "Camera Summary (No Species)"
+              },
+              {
+                "Name": "IndDetSummary",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "ObsComparison",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "Observers",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "PhotoIDSummary",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              }
+            ]
+          },
+          {
+            "Name": "Spatial Queries",
+            "Flags": 2,
+            "Position": 7,
+            "Objects": [
+              {
+                "Name": "qryCameraLocationsLatLong",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "qryCameraLocationsUTM",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "qryResultsByLocationLatLong",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "qryResultsByLocationUTM",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              }
+            ]
+          },
+          {
+            "Name": "Unassigned Objects",
+            "Flags": 4,
+            "Position": 15,
+            "Objects": [
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Developer",
+        "Flags": 0,
+        "Position": 4,
+        "Groups": [
+          {
+            "Name": "Data Tables",
+            "Flags": 2,
+            "Position": 7,
+            "Objects": [
+              {
+                "Name": "CameraLocations",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "Detections",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "IndDetGroups",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "Photos",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "StudyAreas",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "Visits",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              }
+            ]
+          },
+          {
+            "Name": "Functional Forms",
+            "Flags": 2,
+            "Position": 11,
+            "Objects": [
+              {
+                "Name": "AdjustImageDates",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14
+              },
+              {
+                "Name": "CopyPhotos",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "CreditsForm",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "DeletePhotos",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "EditShortcuts",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "ExportQuery",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "Help",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "ImportOptions",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "Maintenance",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 15
+              },
+              {
+                "Name": "MergeDetails",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "MergeSpecies",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "ReportOptions",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9
+              },
+              {
+                "Name": "SpeciesTemp",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10
+              },
+              {
+                "Name": "Startup",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "UpdateDriveLetter",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 12
+              },
+              {
+                "Name": "UpdateImagePath",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 13
+              },
+              {
+                "Name": "VisitModule",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 16
+              }
+            ]
+          },
+          {
+            "Name": "IndividualID",
+            "Flags": 2,
+            "Position": 3,
+            "Objects": [
+              {
+                "Name": "AddIndDetections",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "AdjustIndDet",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "IndDetFilmStrip",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9
+              },
+              {
+                "Name": "IndIDDetectionsSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10
+              },
+              {
+                "Name": "IndividualID",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 20
+              },
+              {
+                "Name": "Individuals",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "IndRefPhotos",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 12
+              },
+              {
+                "Name": "MergeInd",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 13
+              },
+              {
+                "Name": "SetRefPhotoPopup",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14
+              },
+              {
+                "Name": "IndependentDetections",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "IndividualDetections",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "Individuals",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "qryAdjustIndDetRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "qryIndDetBySpLocSubquery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 15
+              },
+              {
+                "Name": "qryIndDetBySpSubquery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 16
+              },
+              {
+                "Name": "qryIndDetFilmStripRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "qryIndDetGroupsSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 17
+              },
+              {
+                "Name": "qryIndDetKnownIndividuals",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 18
+              },
+              {
+                "Name": "qryIndDetNeedID",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "qryIndDetNeedSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 19
+              },
+              {
+                "Name": "qryIndDetRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              }
+            ]
+          },
+          {
+            "Name": "Lookups",
+            "Flags": 2,
+            "Position": 8,
+            "Objects": [
+              {
+                "Name": "lkupAgeClass",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "lkupDetectionStatus",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "lkupExports",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "lkupGender",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "lkupMaintenanceTasks",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "lkupPhoneTypes",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "lkupReportNames",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "lkupVisitTypes",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              }
+            ]
+          },
+          {
+            "Name": "Main Forms",
+            "Flags": 2,
+            "Position": 10,
+            "Objects": [
+              {
+                "Name": "CameraLocations",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "DetectionDetails",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "Observers",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "Species",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "StudyAreas",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "Switchboard",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "Visits",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              }
+            ]
+          },
+          {
+            "Name": "Module Import",
+            "Flags": 2,
+            "Position": 4,
+            "Objects": [
+              {
+                "Name": "ImportModule",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14
+              },
+              {
+                "Name": "qryDeleteNewDetections",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 12
+              },
+              {
+                "Name": "qryModDeleteExisting",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10
+              },
+              {
+                "Name": "qryModDeleteMatching",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "qryModImportDetails",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9
+              },
+              {
+                "Name": "qryModImportDetections",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "qryModImportObs",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "qryModImportObsPhone",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "qryModImportPhotoTags",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 17
+              },
+              {
+                "Name": "qryModImportSpecies",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "qryModuleResults",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "qryModUpdateDetails",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "qryModUpdateFlags",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 15
+              },
+              {
+                "Name": "qryModUpdateHighlights",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "qryModUpdateObs",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "qryModUpdateSpecies",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "qryVerifyMatchingDetections",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 13
+              },
+              {
+                "Name": "qryVerifyMatchingDetectionsNoDetail",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 16
+              }
+            ]
+          },
+          {
+            "Name": "Photo ID",
+            "Flags": 2,
+            "Position": 1,
+            "Objects": [
+              {
+                "Name": "BatchPhotoID",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9
+              },
+              {
+                "Name": "PhotoID",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "PhotoIDClose",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "PhotoIDDetectionsSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "PhotoIDDSModule",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "PhotoIDLogin",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "PhotoIDModule",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "PhotoTags",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10
+              },
+              {
+                "Name": "PhotoIDCompare",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "PhotoIDNeedID",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "PhotoIDRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "qryBatchIDRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              }
+            ]
+          },
+          {
+            "Name": "PhotoViewer",
+            "Flags": 2,
+            "Position": 2,
+            "Objects": [
+              {
+                "Name": "CamFilmStrip",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "PhotoViewer",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "PhotoViewerQueryResults",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "FilmStripRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "PhotoViewerQuery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "qryPVComboRowSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "qryPVComboWithSpecies",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              }
+            ]
+          },
+          {
+            "Name": "Query Builder Forms",
+            "Flags": 2,
+            "Position": 5,
+            "Objects": [
+              {
+                "Name": "ActivityQueryBuilder",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14
+              },
+              {
+                "Name": "DetectionSummaryQueryBuilder",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 22
+              },
+              {
+                "Name": "FlatFileQueryBuilder",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 29
+              },
+              {
+                "Name": "OccupancyQueryBuilder",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 15
+              },
+              {
+                "Name": "QueryBuilders",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 12
+              },
+              {
+                "Name": "SECRQueryBuilder",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 30
+              },
+              {
+                "Name": "SpatialQueryBuilder",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 20
+              },
+              {
+                "Name": "ChartHours",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "lkupQueryBuilders",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 13
+              },
+              {
+                "Name": "ActivityPatternQuery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "DetectionSummaryQuery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 21
+              },
+              {
+                "Name": "MarkRecaptureQuery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "OccupancyQuery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "qryCameraLocationsLatLong",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 16
+              },
+              {
+                "Name": "qryCameraLocationsUTM",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 17
+              },
+              {
+                "Name": "qryCRSubquery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 31
+              },
+              {
+                "Name": "qryEditActiveDates",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "qryFlatFilePending",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 25
+              },
+              {
+                "Name": "qryFlatFileVerified",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 26
+              },
+              {
+                "Name": "qryIndividualDetections",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "qryMakeAPTable",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "qryMarkEffort",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9
+              },
+              {
+                "Name": "qryPivotPending",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 27
+              },
+              {
+                "Name": "qryPivotVerified",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 28
+              },
+              {
+                "Name": "qryResultsByLocationLatLong",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 18
+              },
+              {
+                "Name": "qryResultsByLocationUTM",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 19
+              },
+              {
+                "Name": "qrySECRDetSubquery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10
+              },
+              {
+                "Name": "qrySpPivotPending",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 23
+              },
+              {
+                "Name": "qrySpPivotVerified",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 24
+              },
+              {
+                "Name": "qryValidDetections",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "SECRDetectorQuery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "SECRQuery",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              }
+            ]
+          },
+          {
+            "Name": "Reports",
+            "Flags": 2,
+            "Position": 13,
+            "Objects": [
+              {
+                "Name": "AccessNotes",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 13
+              },
+              {
+                "Name": "AllHelp",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14
+              },
+              {
+                "Name": "CamDeploymentSummarySubreport",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 15
+              },
+              {
+                "Name": "CameraPullChecklist",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 16
+              },
+              {
+                "Name": "CameraSummary",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 17
+              },
+              {
+                "Name": "CameraSummaryNoSp",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 30
+              },
+              {
+                "Name": "CamStudyAreaSpSubreport",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 18
+              },
+              {
+                "Name": "CamStudyAreaSummarySubreport",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 19
+              },
+              {
+                "Name": "CamStudyAreaSummarySubreportNoSp",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 31
+              },
+              {
+                "Name": "CamYearSpSubreport",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 20
+              },
+              {
+                "Name": "DetailShortcutList",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 21
+              },
+              {
+                "Name": "IndDetSummary",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 22
+              },
+              {
+                "Name": "ObsComparison",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 23
+              },
+              {
+                "Name": "Observers",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 24
+              },
+              {
+                "Name": "ObserversSubreport",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 25
+              },
+              {
+                "Name": "ObsPhoneSubreport",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 26
+              },
+              {
+                "Name": "PhotoIDSummary",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 27
+              },
+              {
+                "Name": "Shortcuts",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 28
+              },
+              {
+                "Name": "SpShortcutList",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 29
+              },
+              {
+                "Name": "qryAccessRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "qryAllPhotoObsInits",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "qryCamDeploymentSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "qryCameraPullRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "qryCamStudyAreaSpSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "qryCamStudyAreaSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "qryCamYearSpSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "qryCamYearSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "qryIndDetReport",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "qryObsComparison",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9
+              },
+              {
+                "Name": "qryPhotoIDSummary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10
+              },
+              {
+                "Name": "qryPhotoIDSummarySubquery1",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "qryPhotoIDSummarySubquery2",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 12
+              }
+            ]
+          },
+          {
+            "Name": "Species/Details/Shortcuts",
+            "Flags": 2,
+            "Position": 6,
+            "Objects": [
+              {
+                "Name": "DetailShortcuts",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "DetectionDetails",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "Species",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "SpeciesGroups",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "SpeciesShortcuts",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "DetailsRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "SpeciesRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              }
+            ]
+          },
+          {
+            "Name": "Subforms",
+            "Flags": 2,
+            "Position": 12,
+            "Objects": [
+              {
+                "Name": "AddVisitPopup",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10
+              },
+              {
+                "Name": "APChart",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "APZones",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "CurrentObserverSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "DeleteVisitPhotos",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "DetailsShortcutSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "EditActiveDates",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "EditActiveDatesSingle",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "IndDetGroupsSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "ObsPhoneSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "PhotosSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "SingleVisitPopup",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 12
+              },
+              {
+                "Name": "SpeciesGroups",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 15
+              },
+              {
+                "Name": "SpeciesShortcutSubform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9
+              },
+              {
+                "Name": "VisitsSubformList",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 13
+              },
+              {
+                "Name": "VisitsSubformSingle",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14
+              }
+            ]
+          },
+          {
+            "Name": "Unassigned Objects",
+            "Flags": 4,
+            "Position": 14,
+            "Objects": [
+            ]
+          },
+          {
+            "Name": "Utilities",
+            "Flags": 2,
+            "Position": 9,
+            "Objects": [
+              {
+                "Name": "ImportData",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 21
+              },
+              {
+                "Name": "License",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 24
+              },
+              {
+                "Name": "LicenseItems",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 25
+              },
+              {
+                "Name": "CoordinateConverter",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 19
+              },
+              {
+                "Name": "CustomFunctions",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10
+              },
+              {
+                "Name": "FunctionsForPhotoID",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "NewFunctions2016",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 20
+              },
+              {
+                "Name": "OtherFunctions",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 12
+              },
+              {
+                "Name": "CurrentObserver",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "Help",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "LicenseHeadings",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 22
+              },
+              {
+                "Name": "LicenseItems",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 23
+              },
+              {
+                "Name": "Observers",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "ObsPhone",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "SwitchboardItems",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "Version",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9
+              },
+              {
+                "Name": "CopyTestDupFileNames",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "MissingPhotoFolders",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "MissingPhotos",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "qryAdjustImageDates",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 13
+              },
+              {
+                "Name": "qryCameraLocationsByName",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14
+              },
+              {
+                "Name": "qryCurrentObserverName",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "qryPhotoSpecies",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 15
+              },
+              {
+                "Name": "qryPVComboWithDetails",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 16
+              },
+              {
+                "Name": "qryTrapNightsByLoc",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 17
+              },
+              {
+                "Name": "qryVisitsRecSource",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 18
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

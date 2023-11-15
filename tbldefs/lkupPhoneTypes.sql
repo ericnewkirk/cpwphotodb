@@ -1,0 +1,4 @@
+﻿CREATE TABLE [lkupPhoneTypes] (
+  [PhoneTypeID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [PhoneTypeText] VARCHAR (6)
+)

@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{021301FF-F584-4DEC-B490-AF891202202C}",
+    "Attributes": 4352,
+    "Table": "lkupVisitTypes",
+    "ForeignTable": "Visits",
+    "Fields": [
+      {
+        "Name": "ID",
+        "ForeignName": "VisitTypeID"
+      }
+    ]
+  }
+}

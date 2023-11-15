@@ -1,0 +1,14 @@
+﻿CREATE TABLE [CameraLocations] (
+  [LocationID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [StudyAreaID] LONG  CONSTRAINT [{934CD9C6-8D88-4B97-9135-0323B2A6E477}] REFERENCES [StudyAreas] ([StudyAreaID]) ON UPDATE CASCADE  ON DELETE CASCADE ,
+  [LocationName] VARCHAR (50),
+  [UTM_E] DOUBLE ,
+  [UTM_N] DOUBLE ,
+  [UTMZone] LONG ,
+  [UTMDatum] LONG ,
+  [UTMHemisphere] VARCHAR (1),
+  [LatitudeDD] VARCHAR ,
+  [LongitudeDD] VARCHAR ,
+  [AccessNotes] LONGTEXT ,
+  [APZone] LONG 
+)

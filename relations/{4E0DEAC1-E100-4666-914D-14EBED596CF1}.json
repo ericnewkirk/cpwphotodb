@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{4E0DEAC1-E100-4666-914D-14EBED596CF1}",
+    "Attributes": 4352,
+    "Table": "lkupPhoneTypes",
+    "ForeignTable": "ObsPhone",
+    "Fields": [
+      {
+        "Name": "PhoneTypeID",
+        "ForeignName": "TypeID"
+      }
+    ]
+  }
+}

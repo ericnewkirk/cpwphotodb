@@ -1,0 +1,4 @@
+﻿CREATE TABLE [lkupDetectionStatus] (
+  [StatusID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [StatusText] VARCHAR (255)
+)

@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{BF1AC7DE-285C-46CD-83CA-59DABDF641A4}",
+    "Attributes": 4352,
+    "Table": "lkupGender",
+    "ForeignTable": "Individuals",
+    "Fields": [
+      {
+        "Name": "GenderID",
+        "ForeignName": "GenderID"
+      }
+    ]
+  }
+}

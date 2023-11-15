@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{934CD9C6-8D88-4B97-9135-0323B2A6E477}",
+    "Attributes": 4352,
+    "Table": "StudyAreas",
+    "ForeignTable": "CameraLocations",
+    "Fields": [
+      {
+        "Name": "StudyAreaID",
+        "ForeignName": "StudyAreaID"
+      }
+    ]
+  }
+}

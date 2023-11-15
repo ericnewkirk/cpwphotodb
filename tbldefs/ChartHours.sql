@@ -1,0 +1,3 @@
+﻿CREATE TABLE [ChartHours] (
+  [ChartHour] LONG  CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL
+)

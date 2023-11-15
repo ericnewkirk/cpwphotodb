@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{9959B44A-5AD4-4CB1-A583-138D1E8A1432}",
+    "Attributes": 4352,
+    "Table": "CameraLocations",
+    "ForeignTable": "Visits",
+    "Fields": [
+      {
+        "Name": "LocationID",
+        "ForeignName": "LocationID"
+      }
+    ]
+  }
+}

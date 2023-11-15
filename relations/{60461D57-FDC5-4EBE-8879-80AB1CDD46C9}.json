@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{60461D57-FDC5-4EBE-8879-80AB1CDD46C9}",
+    "Attributes": 4352,
+    "Table": "Species",
+    "ForeignTable": "Detections",
+    "Fields": [
+      {
+        "Name": "SpeciesID",
+        "ForeignName": "SpeciesID"
+      }
+    ]
+  }
+}

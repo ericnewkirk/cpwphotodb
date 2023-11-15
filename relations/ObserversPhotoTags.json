@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "ObserversPhotoTags",
+    "Attributes": 0,
+    "Table": "Observers",
+    "ForeignTable": "PhotoTags",
+    "Fields": [
+      {
+        "Name": "ObserverID",
+        "ForeignName": "ObsID"
+      }
+    ]
+  }
+}

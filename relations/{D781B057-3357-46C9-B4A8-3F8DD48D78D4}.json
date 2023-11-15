@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{D781B057-3357-46C9-B4A8-3F8DD48D78D4}",
+    "Attributes": 4352,
+    "Table": "Visits",
+    "ForeignTable": "Photos",
+    "Fields": [
+      {
+        "Name": "VisitID",
+        "ForeignName": "VisitID"
+      }
+    ]
+  }
+}

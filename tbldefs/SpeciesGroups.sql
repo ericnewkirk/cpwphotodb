@@ -1,0 +1,4 @@
+﻿CREATE TABLE [SpeciesGroups] (
+  [GroupID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [GroupName] VARCHAR (255)
+)

@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{F331C44D-C575-4B74-B144-B73D46648362}",
+    "Attributes": 4352,
+    "Table": "IndependentDetections",
+    "ForeignTable": "IndividualDetections",
+    "Fields": [
+      {
+        "Name": "IndDetectionID",
+        "ForeignName": "IndDetectionID"
+      }
+    ]
+  }
+}

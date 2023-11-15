@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{633FEC9B-C292-4C6A-AD1D-9C5898727E0A}",
+    "Attributes": 4352,
+    "Table": "Individuals",
+    "ForeignTable": "IndividualDetections",
+    "Fields": [
+      {
+        "Name": "IndividualID",
+        "ForeignName": "IndividualID"
+      }
+    ]
+  }
+}

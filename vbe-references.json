@@ -1,0 +1,16 @@
+﻿{
+  "Info": {
+    "Class": "clsDbVbeReference",
+    "Description": "VBE References"
+  },
+  "Items": {
+    "DAO": {
+      "GUID": "{00025E01-0000-0000-C000-000000000046}",
+      "Version": "5.0"
+    },
+    "stdole": {
+      "GUID": "{00020430-0000-0000-C000-000000000046}",
+      "Version": "2.0"
+    }
+  }
+}

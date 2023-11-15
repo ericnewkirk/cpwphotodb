@@ -1,0 +1,40 @@
+﻿dbMemo "SQL" ="INSERT INTO PhotoTags ( TagX, XLen, TagY, YLen, ImageID, ObsID )\015\012SELECT M"
+    "oduleTags.TagX, ModuleTags.XLen, ModuleTags.Tagy, ModuleTags.YLen, ModuleTags.Im"
+    "ageID, ModuleTags.ObsID\015\012FROM ModuleTags LEFT JOIN PhotoTags ON (ModuleTag"
+    "s.ObsID = PhotoTags.ObsID) AND (ModuleTags.ImageID = PhotoTags.ImageID)\015\012W"
+    "HERE (((PhotoTags.TagID) Is Null));\015\012"
+dbMemo "Connect" =""
+dbBoolean "ReturnsRecords" ="-1"
+dbInteger "ODBCTimeout" ="60"
+dbBoolean "OrderByOn" ="0"
+dbByte "Orientation" ="0"
+dbByte "DefaultView" ="2"
+dbBoolean "FilterOnLoad" ="0"
+dbBoolean "OrderByOnLoad" ="-1"
+dbBoolean "UseTransaction" ="-1"
+Begin
+    Begin
+        dbText "Name" ="Species_1.CommonName"
+        dbLong "AggregateType" ="-1"
+    End
+    Begin
+        dbText "Name" ="Species_1.Genus"
+        dbLong "AggregateType" ="-1"
+    End
+    Begin
+        dbText "Name" ="Species_1.Species"
+        dbLong "AggregateType" ="-1"
+    End
+    Begin
+        dbText "Name" ="Species.SpeciesID"
+        dbLong "AggregateType" ="-1"
+    End
+    Begin
+        dbText "Name" ="Species1.CommonName"
+        dbLong "AggregateType" ="-1"
+    End
+    Begin
+        dbText "Name" ="ModuleSpecies.CommonName"
+        dbLong "AggregateType" ="-1"
+    End
+End

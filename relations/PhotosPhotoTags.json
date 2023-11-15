@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "PhotosPhotoTags",
+    "Attributes": 4352,
+    "Table": "Photos",
+    "ForeignTable": "PhotoTags",
+    "Fields": [
+      {
+        "Name": "ImageID",
+        "ForeignName": "ImageID"
+      }
+    ]
+  }
+}

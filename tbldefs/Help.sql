@@ -1,0 +1,6 @@
+﻿CREATE TABLE [Help] (
+  [HelpID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [FormName] VARCHAR (255),
+  [HelpText] VARCHAR (255),
+  [Position] LONG 
+)

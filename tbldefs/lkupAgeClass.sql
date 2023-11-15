@@ -1,0 +1,5 @@
+﻿CREATE TABLE [lkupAgeClass] (
+  [AgeClassID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [AgeClassText] VARCHAR (11),
+  [AgeClassAbbr] VARCHAR (1)
+)

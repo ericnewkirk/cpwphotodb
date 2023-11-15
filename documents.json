@@ -1,0 +1,37 @@
+﻿{
+  "Info": {
+    "Class": "clsDbDocument",
+    "Description": "Database Documents Properties (DAO)"
+  },
+  "Items": {
+    "Tables": {
+      "CameraLocations": {
+        "Description": "Camera locations with UTMs"
+      },
+      "FilmStripRecSource": {
+        "Description": "Record source for the CamFilmStrip subform"
+      },
+      "MissingPhotoFolders": {
+        "Description": "Lists directories for jpeg files that can't be located"
+      },
+      "MissingPhotos": {
+        "Description": "Lists directories and file names for jpeg files that can't be located"
+      },
+      "PhotoViewerQuery": {
+        "Description": "Generated from the PhotoViewer form"
+      },
+      "qryFlatFilePending": {
+        "Description": "Generated from the PhotoViewer form"
+      },
+      "qryFlatFileVerified": {
+        "Description": "Generated from the PhotoViewer form"
+      },
+      "StudyAreas": {
+        "Description": "Project sudy areas"
+      },
+      "SwitchboardItems": {
+        "Description": "Provides the list of functions on the startup form, and determines which action to take and which object to reference for each function"
+      }
+    }
+  }
+}

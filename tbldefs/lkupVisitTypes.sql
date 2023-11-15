@@ -1,0 +1,4 @@
+﻿CREATE TABLE [lkupVisitTypes] (
+  [ID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [VisitType] VARCHAR (32)
+)

@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{B411A333-CC6F-4765-9B4E-1B9870D39B59}",
+    "Attributes": 4352,
+    "Table": "Observers",
+    "ForeignTable": "Detections",
+    "Fields": [
+      {
+        "Name": "ObserverID",
+        "ForeignName": "ObsID"
+      }
+    ]
+  }
+}

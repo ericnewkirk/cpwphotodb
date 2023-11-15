@@ -1,0 +1,4 @@
+﻿CREATE TABLE [Version] (
+  [ID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [CurrentVersionNumber] VARCHAR (255)
+)

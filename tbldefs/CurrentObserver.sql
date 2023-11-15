@@ -1,0 +1,3 @@
+﻿CREATE TABLE [CurrentObserver] (
+  [ObserverID] LONG  CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL
+)

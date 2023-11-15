@@ -1,0 +1,1587 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "11/14/2023 5:52:21 PM",
+    "FullExportDate": "11/14/2023 5:52:21 PM",
+    "OptionsHash": "7d62b8a",
+    "LastMergedCommit": "",
+    "Components": {
+      "DB Connections": {
+        "db-connection.json": {
+        }
+      },
+      "DB Properties": {
+        "dbs-properties.json": {
+          "FileHash": "093d3b8",
+          "ExportDate": "11/14/2023 5:51:49 PM",
+          "SourceModified": "11/14/2023 5:51:49 PM",
+          "FilePropertiesHash": "53d266d"
+        }
+      },
+      "Doc Properties": {
+        "documents.json": {
+          "FileHash": "e31ea68",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "3cf342d"
+        }
+      },
+      "Forms": {
+        "ActivityQueryBuilder.bas": {
+          "FileHash": "dd86629",
+          "OtherHash": "8d81d12",
+          "ExportDate": "11/14/2023 5:52:08 PM",
+          "SourceModified": "11/14/2023 5:52:08 PM",
+          "FilePropertiesHash": "bb41097"
+        },
+        "AddIndDetections.bas": {
+          "FileHash": "8ba6ee7",
+          "OtherHash": "ead1869",
+          "ExportDate": "11/14/2023 5:52:09 PM",
+          "SourceModified": "11/14/2023 5:52:09 PM",
+          "FilePropertiesHash": "eae4133"
+        },
+        "AddVisitPopup.bas": {
+          "FileHash": "f76e4d7",
+          "OtherHash": "4cef0dc",
+          "ExportDate": "11/14/2023 5:52:12 PM",
+          "SourceModified": "11/14/2023 5:52:12 PM",
+          "FilePropertiesHash": "554be82"
+        },
+        "AdjustImageDates.bas": {
+          "FileHash": "a48d2f9",
+          "OtherHash": "b0e4f1d",
+          "ExportDate": "11/14/2023 5:52:13 PM",
+          "SourceModified": "11/14/2023 5:52:13 PM",
+          "FilePropertiesHash": "029a78c"
+        },
+        "AdjustIndDet.bas": {
+          "FileHash": "a2b3794",
+          "OtherHash": "debca33",
+          "ExportDate": "11/14/2023 5:52:15 PM",
+          "SourceModified": "11/14/2023 5:52:15 PM",
+          "FilePropertiesHash": "a6c47f8"
+        },
+        "APChart.bas": {
+          "FileHash": "aa0d885",
+          "OtherHash": "f0c2c44",
+          "ExportDate": "11/14/2023 5:52:13 PM",
+          "SourceModified": "11/14/2023 5:52:13 PM",
+          "FilePropertiesHash": "e1fe5a9"
+        },
+        "APZones.bas": {
+          "FileHash": "5987c53",
+          "OtherHash": "7028b74",
+          "ExportDate": "11/14/2023 5:52:14 PM",
+          "SourceModified": "11/14/2023 5:52:14 PM",
+          "FilePropertiesHash": "2d2170b"
+        },
+        "BatchPhotoID.bas": {
+          "FileHash": "cb5b408",
+          "OtherHash": "63c7ec1",
+          "ExportDate": "11/14/2023 5:52:16 PM",
+          "SourceModified": "11/14/2023 5:52:16 PM",
+          "FilePropertiesHash": "726d69f"
+        },
+        "CameraLocations.bas": {
+          "FileHash": "28dfee9",
+          "OtherHash": "1a83ffb",
+          "ExportDate": "11/14/2023 5:52:16 PM",
+          "SourceModified": "11/14/2023 5:52:16 PM",
+          "FilePropertiesHash": "959bd82"
+        },
+        "CamFilmStrip.bas": {
+          "FileHash": "407f07b",
+          "OtherHash": "9fd5196",
+          "ExportDate": "11/14/2023 5:52:06 PM",
+          "SourceModified": "11/14/2023 5:52:06 PM",
+          "FilePropertiesHash": "3ea77ad"
+        },
+        "CopyPhotos.bas": {
+          "FileHash": "b5e8ac4",
+          "OtherHash": "986508f",
+          "ExportDate": "11/14/2023 5:52:15 PM",
+          "SourceModified": "11/14/2023 5:52:15 PM",
+          "FilePropertiesHash": "5cc0663"
+        },
+        "CreditsForm.bas": {
+          "FileHash": "a57f575",
+          "OtherHash": "d3d071e",
+          "ExportDate": "11/14/2023 5:52:07 PM",
+          "SourceModified": "11/14/2023 5:52:07 PM",
+          "FilePropertiesHash": "884e5d1"
+        },
+        "CurrentObserverSubform.bas": {
+          "FileHash": "01df26b",
+          "OtherHash": "04b60b0",
+          "ExportDate": "11/14/2023 5:52:12 PM",
+          "SourceModified": "11/14/2023 5:52:12 PM",
+          "FilePropertiesHash": "a88511b"
+        },
+        "DeletePhotos.bas": {
+          "FileHash": "18a8bc3",
+          "OtherHash": "caba183",
+          "ExportDate": "11/14/2023 5:52:13 PM",
+          "SourceModified": "11/14/2023 5:52:13 PM",
+          "FilePropertiesHash": "de37568"
+        },
+        "DeleteVisitPhotos.bas": {
+          "FileHash": "bab0e8e",
+          "OtherHash": "34a9b29",
+          "ExportDate": "11/14/2023 5:52:15 PM",
+          "SourceModified": "11/14/2023 5:52:15 PM",
+          "FilePropertiesHash": "f537f03"
+        },
+        "DetailsShortcutSubform.bas": {
+          "FileHash": "d93450d",
+          "ExportDate": "11/14/2023 5:52:07 PM",
+          "SourceModified": "11/14/2023 5:52:07 PM",
+          "FilePropertiesHash": "95671ba"
+        },
+        "DetectionDetails.bas": {
+          "FileHash": "43b2813",
+          "OtherHash": "5ed8f5e",
+          "ExportDate": "11/14/2023 5:52:13 PM",
+          "SourceModified": "11/14/2023 5:52:13 PM",
+          "FilePropertiesHash": "6ba51cb"
+        },
+        "DetectionSummaryQueryBuilder.bas": {
+          "FileHash": "8e27103",
+          "OtherHash": "097811d",
+          "ExportDate": "11/14/2023 5:52:09 PM",
+          "SourceModified": "11/14/2023 5:52:09 PM",
+          "FilePropertiesHash": "4aa38e7"
+        },
+        "EditActiveDates.bas": {
+          "FileHash": "185ce1e",
+          "OtherHash": "4582f3b",
+          "ExportDate": "11/14/2023 5:52:09 PM",
+          "SourceModified": "11/14/2023 5:52:09 PM",
+          "FilePropertiesHash": "4ac5c86"
+        },
+        "EditActiveDatesSingle.bas": {
+          "FileHash": "6206795",
+          "OtherHash": "9d55e74",
+          "ExportDate": "11/14/2023 5:52:16 PM",
+          "SourceModified": "11/14/2023 5:52:16 PM",
+          "FilePropertiesHash": "42f1ea6"
+        },
+        "EditShortcuts.bas": {
+          "FileHash": "0dbc77d",
+          "OtherHash": "3250bb1",
+          "ExportDate": "11/14/2023 5:52:09 PM",
+          "SourceModified": "11/14/2023 5:52:09 PM",
+          "FilePropertiesHash": "2fb58f9"
+        },
+        "ExportQuery.bas": {
+          "FileHash": "1486ced",
+          "OtherHash": "49f043c",
+          "ExportDate": "11/14/2023 5:52:16 PM",
+          "SourceModified": "11/14/2023 5:52:16 PM",
+          "FilePropertiesHash": "4942c75"
+        },
+        "FlatFileQueryBuilder.bas": {
+          "FileHash": "08054dc",
+          "OtherHash": "d2fc16b",
+          "ExportDate": "11/14/2023 5:52:09 PM",
+          "SourceModified": "11/14/2023 5:52:09 PM",
+          "FilePropertiesHash": "a906238"
+        },
+        "Help.bas": {
+          "FileHash": "7c070d2",
+          "OtherHash": "540c46c",
+          "ExportDate": "11/14/2023 5:52:16 PM",
+          "SourceModified": "11/14/2023 5:52:16 PM",
+          "FilePropertiesHash": "be545cf"
+        },
+        "ImportData.bas": {
+          "FileHash": "c13bb95",
+          "OtherHash": "9ef5542",
+          "ExportDate": "11/14/2023 5:52:07 PM",
+          "SourceModified": "11/14/2023 5:52:07 PM",
+          "FilePropertiesHash": "baa6579"
+        },
+        "ImportModule.bas": {
+          "FileHash": "2c2c750",
+          "OtherHash": "724b285",
+          "ExportDate": "11/14/2023 5:52:12 PM",
+          "SourceModified": "11/14/2023 5:52:12 PM",
+          "FilePropertiesHash": "94d36e2"
+        },
+        "ImportOptions.bas": {
+          "FileHash": "140bfc8",
+          "OtherHash": "91c1e78",
+          "ExportDate": "11/14/2023 5:52:15 PM",
+          "SourceModified": "11/14/2023 5:52:15 PM",
+          "FilePropertiesHash": "e10e6b2"
+        },
+        "IndDetFilmStrip.bas": {
+          "FileHash": "a021e5f",
+          "OtherHash": "6a72231",
+          "ExportDate": "11/14/2023 5:52:06 PM",
+          "SourceModified": "11/14/2023 5:52:06 PM",
+          "FilePropertiesHash": "8f210df"
+        },
+        "IndDetGroupsSubform.bas": {
+          "FileHash": "e6a0724",
+          "OtherHash": "33894d9",
+          "ExportDate": "11/14/2023 5:52:07 PM",
+          "SourceModified": "11/14/2023 5:52:07 PM",
+          "FilePropertiesHash": "dcead45"
+        },
+        "IndIDDetectionsSubform.bas": {
+          "FileHash": "a837338",
+          "OtherHash": "506c165",
+          "ExportDate": "11/14/2023 5:52:11 PM",
+          "SourceModified": "11/14/2023 5:52:11 PM",
+          "FilePropertiesHash": "d0e46d4"
+        },
+        "IndividualID.bas": {
+          "FileHash": "784bdcd",
+          "OtherHash": "f4caf19",
+          "ExportDate": "11/14/2023 5:52:10 PM",
+          "SourceModified": "11/14/2023 5:52:10 PM",
+          "FilePropertiesHash": "0e0416f"
+        },
+        "Individuals.bas": {
+          "FileHash": "3d9077a",
+          "OtherHash": "99475b3",
+          "ExportDate": "11/14/2023 5:52:08 PM",
+          "SourceModified": "11/14/2023 5:52:08 PM",
+          "FilePropertiesHash": "8ab0bf0"
+        },
+        "IndRefPhotos.bas": {
+          "FileHash": "c1297ba",
+          "OtherHash": "f67d045",
+          "ExportDate": "11/14/2023 5:52:15 PM",
+          "SourceModified": "11/14/2023 5:52:15 PM",
+          "FilePropertiesHash": "8d7815c"
+        },
+        "Maintenance.bas": {
+          "FileHash": "5ea2e94",
+          "OtherHash": "505cf2b",
+          "ExportDate": "11/14/2023 5:52:17 PM",
+          "SourceModified": "11/14/2023 5:52:17 PM",
+          "FilePropertiesHash": "18010b3"
+        },
+        "MergeDetails.bas": {
+          "FileHash": "ac8c9aa",
+          "OtherHash": "d67503a",
+          "ExportDate": "11/14/2023 5:52:13 PM",
+          "SourceModified": "11/14/2023 5:52:13 PM",
+          "FilePropertiesHash": "ef4fc39"
+        },
+        "MergeInd.bas": {
+          "FileHash": "63fbec6",
+          "OtherHash": "94335ed",
+          "ExportDate": "11/14/2023 5:52:11 PM",
+          "SourceModified": "11/14/2023 5:52:11 PM",
+          "FilePropertiesHash": "4a4115f"
+        },
+        "MergeSpecies.bas": {
+          "FileHash": "1e8dbd2",
+          "OtherHash": "c702fb0",
+          "ExportDate": "11/14/2023 5:52:10 PM",
+          "SourceModified": "11/14/2023 5:52:10 PM",
+          "FilePropertiesHash": "05bf00d"
+        },
+        "Observers.bas": {
+          "FileHash": "d9df4e4",
+          "OtherHash": "056219a",
+          "ExportDate": "11/14/2023 5:52:11 PM",
+          "SourceModified": "11/14/2023 5:52:11 PM",
+          "FilePropertiesHash": "921fbb3"
+        },
+        "ObsPhoneSubform.bas": {
+          "FileHash": "863a211",
+          "OtherHash": "b8cfb4c",
+          "ExportDate": "11/14/2023 5:52:07 PM",
+          "SourceModified": "11/14/2023 5:52:07 PM",
+          "FilePropertiesHash": "47bff94"
+        },
+        "OccupancyQueryBuilder.bas": {
+          "FileHash": "41dc4dc",
+          "OtherHash": "ee5f58d",
+          "ExportDate": "11/14/2023 5:52:14 PM",
+          "SourceModified": "11/14/2023 5:52:14 PM",
+          "FilePropertiesHash": "46d2d66"
+        },
+        "PhotoID.bas": {
+          "FileHash": "9d7740b",
+          "OtherHash": "9b5fada",
+          "ExportDate": "11/14/2023 5:52:08 PM",
+          "SourceModified": "11/14/2023 5:52:08 PM",
+          "FilePropertiesHash": "2fbafc3"
+        },
+        "PhotoIDClose.bas": {
+          "FileHash": "3470d9c",
+          "ExportDate": "11/14/2023 5:52:14 PM",
+          "SourceModified": "11/14/2023 5:52:14 PM",
+          "FilePropertiesHash": "b862c0e"
+        },
+        "PhotoIDDetectionsSubform.bas": {
+          "FileHash": "bf5da65",
+          "OtherHash": "d6eea9f",
+          "ExportDate": "11/14/2023 5:52:07 PM",
+          "SourceModified": "11/14/2023 5:52:07 PM",
+          "FilePropertiesHash": "f56be75"
+        },
+        "PhotoIDDSModule.bas": {
+          "FileHash": "53cf37c",
+          "OtherHash": "7008af6",
+          "ExportDate": "11/14/2023 5:52:11 PM",
+          "SourceModified": "11/14/2023 5:52:11 PM",
+          "FilePropertiesHash": "f714a55"
+        },
+        "PhotoIDLogin.bas": {
+          "FileHash": "c0ebc9e",
+          "OtherHash": "a105ed6",
+          "ExportDate": "11/14/2023 5:52:09 PM",
+          "SourceModified": "11/14/2023 5:52:09 PM",
+          "FilePropertiesHash": "b4e2c68"
+        },
+        "PhotoIDModule.bas": {
+          "FileHash": "394ae4c",
+          "OtherHash": "d44d387",
+          "ExportDate": "11/14/2023 5:52:12 PM",
+          "SourceModified": "11/14/2023 5:52:12 PM",
+          "FilePropertiesHash": "e158785"
+        },
+        "PhotosSubform.bas": {
+          "FileHash": "dd2648d",
+          "OtherHash": "e6898e8",
+          "ExportDate": "11/14/2023 5:52:08 PM",
+          "SourceModified": "11/14/2023 5:52:07 PM",
+          "FilePropertiesHash": "a80f5a5"
+        },
+        "PhotoViewer.bas": {
+          "FileHash": "fff6dee",
+          "OtherHash": "5f75156",
+          "ExportDate": "11/14/2023 5:52:10 PM",
+          "SourceModified": "11/14/2023 5:52:10 PM",
+          "FilePropertiesHash": "c3b2cdf"
+        },
+        "PhotoViewerQueryResults.bas": {
+          "FileHash": "0155363",
+          "OtherHash": "128704c",
+          "ExportDate": "11/14/2023 5:52:06 PM",
+          "SourceModified": "11/14/2023 5:52:06 PM",
+          "FilePropertiesHash": "7e80696"
+        },
+        "QueryBuilders.bas": {
+          "FileHash": "588c41f",
+          "OtherHash": "d7bad8a",
+          "ExportDate": "11/14/2023 5:52:16 PM",
+          "SourceModified": "11/14/2023 5:52:16 PM",
+          "FilePropertiesHash": "ce74876"
+        },
+        "ReportOptions.bas": {
+          "FileHash": "2496931",
+          "OtherHash": "c354b44",
+          "ExportDate": "11/14/2023 5:52:15 PM",
+          "SourceModified": "11/14/2023 5:52:15 PM",
+          "FilePropertiesHash": "751be63"
+        },
+        "SECRQueryBuilder.bas": {
+          "FileHash": "3b83262",
+          "OtherHash": "839bc2f",
+          "ExportDate": "11/14/2023 5:52:14 PM",
+          "SourceModified": "11/14/2023 5:52:14 PM",
+          "FilePropertiesHash": "d5da03d"
+        },
+        "SetRefPhotoPopup.bas": {
+          "FileHash": "6a962be",
+          "OtherHash": "2ca4b52",
+          "ExportDate": "11/14/2023 5:52:08 PM",
+          "SourceModified": "11/14/2023 5:52:08 PM",
+          "FilePropertiesHash": "e16af49"
+        },
+        "SingleVisitPopup.bas": {
+          "FileHash": "6b00ad2",
+          "OtherHash": "6bb8c86",
+          "ExportDate": "11/14/2023 5:52:08 PM",
+          "SourceModified": "11/14/2023 5:52:08 PM",
+          "FilePropertiesHash": "3942bfd"
+        },
+        "SpatialQueryBuilder.bas": {
+          "FileHash": "61d1dc2",
+          "OtherHash": "4a7093e",
+          "ExportDate": "11/14/2023 5:52:10 PM",
+          "SourceModified": "11/14/2023 5:52:10 PM",
+          "FilePropertiesHash": "df084e8"
+        },
+        "Species.bas": {
+          "FileHash": "bd9d2f1",
+          "OtherHash": "d8bebea",
+          "ExportDate": "11/14/2023 5:52:10 PM",
+          "SourceModified": "11/14/2023 5:52:10 PM",
+          "FilePropertiesHash": "9384961"
+        },
+        "SpeciesGroups.bas": {
+          "FileHash": "31a2f81",
+          "OtherHash": "e2ad516",
+          "ExportDate": "11/14/2023 5:52:13 PM",
+          "SourceModified": "11/14/2023 5:52:13 PM",
+          "FilePropertiesHash": "a3dd8e7"
+        },
+        "SpeciesShortcutSubform.bas": {
+          "FileHash": "d81ff08",
+          "ExportDate": "11/14/2023 5:52:07 PM",
+          "SourceModified": "11/14/2023 5:52:07 PM",
+          "FilePropertiesHash": "5dac04f"
+        },
+        "SpeciesTemp.bas": {
+          "FileHash": "043f3e1",
+          "OtherHash": "90d241c",
+          "ExportDate": "11/14/2023 5:52:12 PM",
+          "SourceModified": "11/14/2023 5:52:12 PM",
+          "FilePropertiesHash": "4a68495"
+        },
+        "Startup.bas": {
+          "FileHash": "515e3a2",
+          "OtherHash": "1f71782",
+          "ExportDate": "11/14/2023 5:52:12 PM",
+          "SourceModified": "11/14/2023 5:52:12 PM",
+          "FilePropertiesHash": "de83250"
+        },
+        "StudyAreas.bas": {
+          "FileHash": "5201f3a",
+          "OtherHash": "7c9a43f",
+          "ExportDate": "11/14/2023 5:52:13 PM",
+          "SourceModified": "11/14/2023 5:52:13 PM",
+          "FilePropertiesHash": "7aecb10"
+        },
+        "Switchboard.bas": {
+          "FileHash": "8a7b9b9",
+          "OtherHash": "224d3fa",
+          "ExportDate": "11/14/2023 5:52:11 PM",
+          "SourceModified": "11/14/2023 5:52:11 PM",
+          "FilePropertiesHash": "c3442b6"
+        },
+        "UpdateDriveLetter.bas": {
+          "FileHash": "0cb8e2c",
+          "OtherHash": "ac9b40a",
+          "ExportDate": "11/14/2023 5:52:11 PM",
+          "SourceModified": "11/14/2023 5:52:11 PM",
+          "FilePropertiesHash": "21d0448"
+        },
+        "UpdateImagePath.bas": {
+          "FileHash": "36c10da",
+          "OtherHash": "9cac9d0",
+          "ExportDate": "11/14/2023 5:52:12 PM",
+          "SourceModified": "11/14/2023 5:52:12 PM",
+          "FilePropertiesHash": "b229d3f"
+        },
+        "VisitModule.bas": {
+          "FileHash": "012b939",
+          "OtherHash": "a5c099f",
+          "ExportDate": "11/14/2023 5:52:11 PM",
+          "SourceModified": "11/14/2023 5:52:11 PM",
+          "FilePropertiesHash": "2669496"
+        },
+        "Visits.bas": {
+          "FileHash": "0e76dce",
+          "OtherHash": "655f104",
+          "ExportDate": "11/14/2023 5:52:17 PM",
+          "SourceModified": "11/14/2023 5:52:17 PM",
+          "FilePropertiesHash": "b2494fc"
+        },
+        "VisitsSubformList.bas": {
+          "FileHash": "c27445e",
+          "OtherHash": "1b5f369",
+          "ExportDate": "11/14/2023 5:52:17 PM",
+          "SourceModified": "11/14/2023 5:52:17 PM",
+          "FilePropertiesHash": "6db813b"
+        },
+        "VisitsSubformSingle.bas": {
+          "FileHash": "d67142b",
+          "OtherHash": "6f83bb6",
+          "ExportDate": "11/14/2023 5:52:14 PM",
+          "SourceModified": "11/14/2023 5:52:14 PM",
+          "FilePropertiesHash": "0b783c1"
+        }
+      },
+      "Hidden Attributes": {
+        "hidden-attributes.json": {
+        }
+      },
+      "Modules": {
+        "CoordinateConverter.bas": {
+          "FileHash": "dc497d0",
+          "OtherHash": "d2b55ed",
+          "ExportDate": "11/14/2023 5:52:19 PM",
+          "SourceModified": "11/14/2023 5:52:19 PM",
+          "FilePropertiesHash": "9864693"
+        },
+        "CustomFunctions.bas": {
+          "FileHash": "4f9cd71",
+          "OtherHash": "05a9dab",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "9c1436f"
+        },
+        "FunctionsForPhotoID.bas": {
+          "FileHash": "8654c7c",
+          "OtherHash": "437fde1",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "5235d34"
+        },
+        "NewFunctions2016.bas": {
+          "FileHash": "75f948d",
+          "OtherHash": "62ebc6f",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "601716b"
+        },
+        "OtherFunctions.bas": {
+          "FileHash": "58da749",
+          "OtherHash": "b5a30e2",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:19 PM",
+          "FilePropertiesHash": "87caf04"
+        }
+      },
+      "Nav Pane Groups": {
+        "nav-pane-groups.json": {
+          "FileHash": "65d397c",
+          "ExportDate": "11/14/2023 5:52:21 PM",
+          "SourceModified": "11/14/2023 5:52:21 PM",
+          "FilePropertiesHash": "e762288"
+        }
+      },
+      "Proj Properties": {
+        "proj-properties.json": {
+        }
+      },
+      "Project": {
+        "project.json": {
+          "FileHash": "9fe41ad",
+          "ExportDate": "11/14/2023 5:51:49 PM",
+          "SourceModified": "11/14/2023 5:51:49 PM",
+          "FilePropertiesHash": "7835959"
+        }
+      },
+      "Queries": {
+        "ActivityPatternQuery.bas": {
+          "FileHash": "e3c3853",
+          "ExportDate": "11/14/2023 5:51:52 PM",
+          "SourceModified": "11/14/2023 5:51:52 PM",
+          "FilePropertiesHash": "d6e077a"
+        },
+        "CopyTestDupFileNames.bas": {
+          "FileHash": "d472828",
+          "ExportDate": "11/14/2023 5:51:53 PM",
+          "SourceModified": "11/14/2023 5:51:53 PM",
+          "FilePropertiesHash": "69905ea"
+        },
+        "DetailsRecSource.bas": {
+          "FileHash": "1239e95",
+          "ExportDate": "11/14/2023 5:51:53 PM",
+          "SourceModified": "11/14/2023 5:51:53 PM",
+          "FilePropertiesHash": "2165dc3"
+        },
+        "DetectionSummaryQuery.bas": {
+          "FileHash": "fe0c5b7",
+          "ExportDate": "11/14/2023 5:51:53 PM",
+          "SourceModified": "11/14/2023 5:51:53 PM",
+          "FilePropertiesHash": "38c1fef"
+        },
+        "FilmStripRecSource.bas": {
+          "FileHash": "dbd15bd",
+          "ExportDate": "11/14/2023 5:51:53 PM",
+          "SourceModified": "11/14/2023 5:51:53 PM",
+          "FilePropertiesHash": "8d5fa49"
+        },
+        "MarkRecaptureQuery.bas": {
+          "FileHash": "a2eb4ee",
+          "ExportDate": "11/14/2023 5:51:54 PM",
+          "SourceModified": "11/14/2023 5:51:54 PM",
+          "FilePropertiesHash": "299f62c"
+        },
+        "MissingPhotoFolders.bas": {
+          "FileHash": "0d71a2d",
+          "ExportDate": "11/14/2023 5:51:54 PM",
+          "SourceModified": "11/14/2023 5:51:54 PM",
+          "FilePropertiesHash": "39ac805"
+        },
+        "MissingPhotos.bas": {
+          "FileHash": "21cebb5",
+          "ExportDate": "11/14/2023 5:51:54 PM",
+          "SourceModified": "11/14/2023 5:51:54 PM",
+          "FilePropertiesHash": "d894eb6"
+        },
+        "OccupancyQuery.bas": {
+          "FileHash": "5372a8c",
+          "ExportDate": "11/14/2023 5:51:54 PM",
+          "SourceModified": "11/14/2023 5:51:54 PM",
+          "FilePropertiesHash": "a0a92c7"
+        },
+        "PhotoIDCompare.bas": {
+          "FileHash": "44c0f42",
+          "ExportDate": "11/14/2023 5:51:54 PM",
+          "SourceModified": "11/14/2023 5:51:54 PM",
+          "FilePropertiesHash": "65f1f76"
+        },
+        "PhotoIDNeedID.bas": {
+          "FileHash": "315cb21",
+          "ExportDate": "11/14/2023 5:51:55 PM",
+          "SourceModified": "11/14/2023 5:51:55 PM",
+          "FilePropertiesHash": "4428165"
+        },
+        "PhotoIDRecSource.bas": {
+          "FileHash": "45e00bc",
+          "ExportDate": "11/14/2023 5:51:55 PM",
+          "SourceModified": "11/14/2023 5:51:55 PM",
+          "FilePropertiesHash": "0dd246f"
+        },
+        "PhotoViewerQuery.bas": {
+          "FileHash": "3bfb93c",
+          "ExportDate": "11/14/2023 5:51:55 PM",
+          "SourceModified": "11/14/2023 5:51:55 PM",
+          "FilePropertiesHash": "380077f"
+        },
+        "qryAccessRecSource.bas": {
+          "FileHash": "81ae569",
+          "ExportDate": "11/14/2023 5:51:55 PM",
+          "SourceModified": "11/14/2023 5:51:55 PM",
+          "FilePropertiesHash": "ba5b301"
+        },
+        "qryAdjustImageDates.bas": {
+          "FileHash": "512b279",
+          "ExportDate": "11/14/2023 5:51:55 PM",
+          "SourceModified": "11/14/2023 5:51:55 PM",
+          "FilePropertiesHash": "4476fe3"
+        },
+        "qryAdjustIndDetRecSource.bas": {
+          "FileHash": "c2f66dd",
+          "ExportDate": "11/14/2023 5:51:55 PM",
+          "SourceModified": "11/14/2023 5:51:55 PM",
+          "FilePropertiesHash": "a65755c"
+        },
+        "qryAllPhotoObsInits.bas": {
+          "FileHash": "7afd471",
+          "ExportDate": "11/14/2023 5:51:56 PM",
+          "SourceModified": "11/14/2023 5:51:55 PM",
+          "FilePropertiesHash": "8fc67de"
+        },
+        "qryBatchIDRecSource.bas": {
+          "FileHash": "17d4560",
+          "ExportDate": "11/14/2023 5:51:56 PM",
+          "SourceModified": "11/14/2023 5:51:56 PM",
+          "FilePropertiesHash": "4ff27b0"
+        },
+        "qryCamDeploymentSummary.bas": {
+          "FileHash": "2667f87",
+          "ExportDate": "11/14/2023 5:51:56 PM",
+          "SourceModified": "11/14/2023 5:51:56 PM",
+          "FilePropertiesHash": "fdc4873"
+        },
+        "qryCameraLocationsByName.bas": {
+          "FileHash": "5d0aec9",
+          "ExportDate": "11/14/2023 5:51:56 PM",
+          "SourceModified": "11/14/2023 5:51:56 PM",
+          "FilePropertiesHash": "e0033a8"
+        },
+        "qryCameraLocationsLatLong.bas": {
+          "FileHash": "992c377",
+          "ExportDate": "11/14/2023 5:51:56 PM",
+          "SourceModified": "11/14/2023 5:51:56 PM",
+          "FilePropertiesHash": "06f58fe"
+        },
+        "qryCameraLocationsUTM.bas": {
+          "FileHash": "5cbbfd5",
+          "ExportDate": "11/14/2023 5:51:56 PM",
+          "SourceModified": "11/14/2023 5:51:56 PM",
+          "FilePropertiesHash": "7600f12"
+        },
+        "qryCameraPullRecSource.bas": {
+          "FileHash": "f806de8",
+          "ExportDate": "11/14/2023 5:51:56 PM",
+          "SourceModified": "11/14/2023 5:51:56 PM",
+          "FilePropertiesHash": "c85af8a"
+        },
+        "qryCamStudyAreaSpSummary.bas": {
+          "FileHash": "974e4d9",
+          "ExportDate": "11/14/2023 5:51:57 PM",
+          "SourceModified": "11/14/2023 5:51:56 PM",
+          "FilePropertiesHash": "f4dc468"
+        },
+        "qryCamStudyAreaSummary.bas": {
+          "FileHash": "068825b",
+          "ExportDate": "11/14/2023 5:51:57 PM",
+          "SourceModified": "11/14/2023 5:51:57 PM",
+          "FilePropertiesHash": "f918768"
+        },
+        "qryCamYearSpSummary.bas": {
+          "FileHash": "8e5db20",
+          "ExportDate": "11/14/2023 5:51:57 PM",
+          "SourceModified": "11/14/2023 5:51:57 PM",
+          "FilePropertiesHash": "fbcf576"
+        },
+        "qryCamYearSummary.bas": {
+          "FileHash": "e39dba7",
+          "ExportDate": "11/14/2023 5:51:57 PM",
+          "SourceModified": "11/14/2023 5:51:57 PM",
+          "FilePropertiesHash": "2be5d2f"
+        },
+        "qryCRSubquery.bas": {
+          "FileHash": "d5d7f2f",
+          "ExportDate": "11/14/2023 5:51:57 PM",
+          "SourceModified": "11/14/2023 5:51:57 PM",
+          "FilePropertiesHash": "de33d43"
+        },
+        "qryCurrentObserverName.bas": {
+          "FileHash": "80cdfaa",
+          "ExportDate": "11/14/2023 5:51:57 PM",
+          "SourceModified": "11/14/2023 5:51:57 PM",
+          "FilePropertiesHash": "b561da3"
+        },
+        "qryDeleteNewDetections.bas": {
+          "FileHash": "7cb3b37",
+          "ExportDate": "11/14/2023 5:51:57 PM",
+          "SourceModified": "11/14/2023 5:51:57 PM",
+          "FilePropertiesHash": "36e90ec"
+        },
+        "qryEditActiveDates.bas": {
+          "FileHash": "242bda2",
+          "ExportDate": "11/14/2023 5:51:58 PM",
+          "SourceModified": "11/14/2023 5:51:57 PM",
+          "FilePropertiesHash": "229e206"
+        },
+        "qryFlatFilePending.bas": {
+          "FileHash": "9c47998",
+          "ExportDate": "11/14/2023 5:51:58 PM",
+          "SourceModified": "11/14/2023 5:51:58 PM",
+          "FilePropertiesHash": "ffaefea"
+        },
+        "qryFlatFileVerified.bas": {
+          "FileHash": "fc2503d",
+          "ExportDate": "11/14/2023 5:51:58 PM",
+          "SourceModified": "11/14/2023 5:51:58 PM",
+          "FilePropertiesHash": "ffaefea"
+        },
+        "qryIndDetBySpLocSubquery.bas": {
+          "FileHash": "180db12",
+          "ExportDate": "11/14/2023 5:51:58 PM",
+          "SourceModified": "11/14/2023 5:51:58 PM",
+          "FilePropertiesHash": "925c0e3"
+        },
+        "qryIndDetBySpSubquery.bas": {
+          "FileHash": "9d1c3f3",
+          "ExportDate": "11/14/2023 5:51:59 PM",
+          "SourceModified": "11/14/2023 5:51:59 PM",
+          "FilePropertiesHash": "efc304e"
+        },
+        "qryIndDetFilmStripRecSource.bas": {
+          "FileHash": "e802e61",
+          "ExportDate": "11/14/2023 5:51:59 PM",
+          "SourceModified": "11/14/2023 5:51:59 PM",
+          "FilePropertiesHash": "46f1c69"
+        },
+        "qryIndDetGroupsSummary.bas": {
+          "FileHash": "1e13f28",
+          "ExportDate": "11/14/2023 5:51:59 PM",
+          "SourceModified": "11/14/2023 5:51:59 PM",
+          "FilePropertiesHash": "a4917ec"
+        },
+        "qryIndDetKnownIndividuals.bas": {
+          "FileHash": "352bff3",
+          "ExportDate": "11/14/2023 5:51:59 PM",
+          "SourceModified": "11/14/2023 5:51:59 PM",
+          "FilePropertiesHash": "ca23a44"
+        },
+        "qryIndDetNeedID.bas": {
+          "FileHash": "9d0d65e",
+          "ExportDate": "11/14/2023 5:51:59 PM",
+          "SourceModified": "11/14/2023 5:51:59 PM",
+          "FilePropertiesHash": "fa8c890"
+        },
+        "qryIndDetNeedSummary.bas": {
+          "FileHash": "0ef5236",
+          "ExportDate": "11/14/2023 5:51:59 PM",
+          "SourceModified": "11/14/2023 5:51:59 PM",
+          "FilePropertiesHash": "48762e9"
+        },
+        "qryIndDetRecSource.bas": {
+          "FileHash": "fdd4da4",
+          "ExportDate": "11/14/2023 5:52:00 PM",
+          "SourceModified": "11/14/2023 5:52:00 PM",
+          "FilePropertiesHash": "0a8f2a7"
+        },
+        "qryIndDetReport.bas": {
+          "FileHash": "b72f1fb",
+          "ExportDate": "11/14/2023 5:52:00 PM",
+          "SourceModified": "11/14/2023 5:52:00 PM",
+          "FilePropertiesHash": "2418f45"
+        },
+        "qryIndividualDetections.bas": {
+          "FileHash": "5fecb62",
+          "ExportDate": "11/14/2023 5:52:00 PM",
+          "SourceModified": "11/14/2023 5:52:00 PM",
+          "FilePropertiesHash": "6ff28b6"
+        },
+        "qryMakeAPTable.bas": {
+          "FileHash": "eecc364",
+          "ExportDate": "11/14/2023 5:52:00 PM",
+          "SourceModified": "11/14/2023 5:52:00 PM",
+          "FilePropertiesHash": "5897255"
+        },
+        "qryMarkEffort.bas": {
+          "FileHash": "a737ac1",
+          "ExportDate": "11/14/2023 5:52:00 PM",
+          "SourceModified": "11/14/2023 5:52:00 PM",
+          "FilePropertiesHash": "35fb983"
+        },
+        "qryModDeleteExisting.bas": {
+          "FileHash": "041818a",
+          "ExportDate": "11/14/2023 5:52:00 PM",
+          "SourceModified": "11/14/2023 5:52:00 PM",
+          "FilePropertiesHash": "350ba17"
+        },
+        "qryModDeleteMatching.bas": {
+          "FileHash": "ed9fbf3",
+          "ExportDate": "11/14/2023 5:52:00 PM",
+          "SourceModified": "11/14/2023 5:52:00 PM",
+          "FilePropertiesHash": "62a2b90"
+        },
+        "qryModImportDetails.bas": {
+          "FileHash": "13285c4",
+          "ExportDate": "11/14/2023 5:52:01 PM",
+          "SourceModified": "11/14/2023 5:52:00 PM",
+          "FilePropertiesHash": "429c93f"
+        },
+        "qryModImportDetections.bas": {
+          "FileHash": "d41fff6",
+          "ExportDate": "11/14/2023 5:52:01 PM",
+          "SourceModified": "11/14/2023 5:52:01 PM",
+          "FilePropertiesHash": "ff7a00c"
+        },
+        "qryModImportObs.bas": {
+          "FileHash": "acd3e57",
+          "ExportDate": "11/14/2023 5:52:01 PM",
+          "SourceModified": "11/14/2023 5:52:01 PM",
+          "FilePropertiesHash": "3432ac3"
+        },
+        "qryModImportObsPhone.bas": {
+          "FileHash": "b9f97b1",
+          "ExportDate": "11/14/2023 5:52:01 PM",
+          "SourceModified": "11/14/2023 5:52:01 PM",
+          "FilePropertiesHash": "df031ed"
+        },
+        "qryModImportPhotoTags.bas": {
+          "FileHash": "b7ff4a0",
+          "ExportDate": "11/14/2023 5:52:01 PM",
+          "SourceModified": "11/14/2023 5:52:01 PM",
+          "FilePropertiesHash": "e91223d"
+        },
+        "qryModImportSpecies.bas": {
+          "FileHash": "cf5b0d7",
+          "ExportDate": "11/14/2023 5:52:01 PM",
+          "SourceModified": "11/14/2023 5:52:01 PM",
+          "FilePropertiesHash": "7468f2a"
+        },
+        "qryModuleResults.bas": {
+          "FileHash": "3289bfb",
+          "ExportDate": "11/14/2023 5:52:01 PM",
+          "SourceModified": "11/14/2023 5:52:01 PM",
+          "FilePropertiesHash": "3874aae"
+        },
+        "qryModUpdateDetails.bas": {
+          "FileHash": "c045999",
+          "ExportDate": "11/14/2023 5:52:01 PM",
+          "SourceModified": "11/14/2023 5:52:01 PM",
+          "FilePropertiesHash": "3fb2a6d"
+        },
+        "qryModUpdateFlags.bas": {
+          "FileHash": "a380bf0",
+          "ExportDate": "11/14/2023 5:52:01 PM",
+          "SourceModified": "11/14/2023 5:52:01 PM",
+          "FilePropertiesHash": "4fa5a10"
+        },
+        "qryModUpdateHighlights.bas": {
+          "FileHash": "6246a22",
+          "ExportDate": "11/14/2023 5:52:01 PM",
+          "SourceModified": "11/14/2023 5:52:01 PM",
+          "FilePropertiesHash": "2067149"
+        },
+        "qryModUpdateObs.bas": {
+          "FileHash": "5b2f465",
+          "ExportDate": "11/14/2023 5:52:01 PM",
+          "SourceModified": "11/14/2023 5:52:01 PM",
+          "FilePropertiesHash": "4446f1b"
+        },
+        "qryModUpdateSpecies.bas": {
+          "FileHash": "06ee831",
+          "ExportDate": "11/14/2023 5:52:01 PM",
+          "SourceModified": "11/14/2023 5:52:01 PM",
+          "FilePropertiesHash": "3583639"
+        },
+        "qryObsComparison.bas": {
+          "FileHash": "c4f63eb",
+          "ExportDate": "11/14/2023 5:52:01 PM",
+          "SourceModified": "11/14/2023 5:52:01 PM",
+          "FilePropertiesHash": "0eb0758"
+        },
+        "qryPhotoIDSummary.bas": {
+          "FileHash": "a917e70",
+          "ExportDate": "11/14/2023 5:52:01 PM",
+          "SourceModified": "11/14/2023 5:52:01 PM",
+          "FilePropertiesHash": "1fedff8"
+        },
+        "qryPhotoIDSummarySubquery1.bas": {
+          "FileHash": "640d0ba",
+          "ExportDate": "11/14/2023 5:52:02 PM",
+          "SourceModified": "11/14/2023 5:52:02 PM",
+          "FilePropertiesHash": "e5ac1bd"
+        },
+        "qryPhotoIDSummarySubquery2.bas": {
+          "FileHash": "c13c4f7",
+          "ExportDate": "11/14/2023 5:52:02 PM",
+          "SourceModified": "11/14/2023 5:52:02 PM",
+          "FilePropertiesHash": "717cb5b"
+        },
+        "qryPhotoSpecies.bas": {
+          "FileHash": "6ccbf58",
+          "ExportDate": "11/14/2023 5:52:02 PM",
+          "SourceModified": "11/14/2023 5:52:02 PM",
+          "FilePropertiesHash": "a509ea0"
+        },
+        "qryPivotPending.bas": {
+          "FileHash": "f7ab278",
+          "ExportDate": "11/14/2023 5:52:02 PM",
+          "SourceModified": "11/14/2023 5:52:02 PM",
+          "FilePropertiesHash": "8e58153"
+        },
+        "qryPivotVerified.bas": {
+          "FileHash": "c554c6d",
+          "ExportDate": "11/14/2023 5:52:02 PM",
+          "SourceModified": "11/14/2023 5:52:02 PM",
+          "FilePropertiesHash": "30defd6"
+        },
+        "qryPVComboRowSource.bas": {
+          "FileHash": "2e91af5",
+          "ExportDate": "11/14/2023 5:52:02 PM",
+          "SourceModified": "11/14/2023 5:52:02 PM",
+          "FilePropertiesHash": "37cda08"
+        },
+        "qryPVComboWithDetails.bas": {
+          "FileHash": "9bb2877",
+          "ExportDate": "11/14/2023 5:52:02 PM",
+          "SourceModified": "11/14/2023 5:52:02 PM",
+          "FilePropertiesHash": "b051eea"
+        },
+        "qryPVComboWithSpecies.bas": {
+          "FileHash": "1a6f456",
+          "ExportDate": "11/14/2023 5:52:03 PM",
+          "SourceModified": "11/14/2023 5:52:03 PM",
+          "FilePropertiesHash": "0a194b3"
+        },
+        "qryResultsByLocationLatLong.bas": {
+          "FileHash": "1ea5c5f",
+          "ExportDate": "11/14/2023 5:52:03 PM",
+          "SourceModified": "11/14/2023 5:52:03 PM",
+          "FilePropertiesHash": "7f746ce"
+        },
+        "qryResultsByLocationUTM.bas": {
+          "FileHash": "2d664ef",
+          "ExportDate": "11/14/2023 5:52:03 PM",
+          "SourceModified": "11/14/2023 5:52:03 PM",
+          "FilePropertiesHash": "2eb54e9"
+        },
+        "qrySECRDetSubquery.bas": {
+          "FileHash": "5b1dd17",
+          "ExportDate": "11/14/2023 5:52:03 PM",
+          "SourceModified": "11/14/2023 5:52:03 PM",
+          "FilePropertiesHash": "5d55544"
+        },
+        "qrySpPivotPending.bas": {
+          "FileHash": "cea9e42",
+          "ExportDate": "11/14/2023 5:52:03 PM",
+          "SourceModified": "11/14/2023 5:52:03 PM",
+          "FilePropertiesHash": "a84b05c"
+        },
+        "qrySpPivotVerified.bas": {
+          "FileHash": "d52fb8c",
+          "ExportDate": "11/14/2023 5:52:03 PM",
+          "SourceModified": "11/14/2023 5:52:03 PM",
+          "FilePropertiesHash": "ae4c442"
+        },
+        "qryTrapNightsByLoc.bas": {
+          "FileHash": "ff8f983",
+          "ExportDate": "11/14/2023 5:52:03 PM",
+          "SourceModified": "11/14/2023 5:52:03 PM",
+          "FilePropertiesHash": "99aac0a"
+        },
+        "qryValidDetections.bas": {
+          "FileHash": "dcc571d",
+          "ExportDate": "11/14/2023 5:52:04 PM",
+          "SourceModified": "11/14/2023 5:52:04 PM",
+          "FilePropertiesHash": "ddcc064"
+        },
+        "qryVerifyMatchingDetections.bas": {
+          "FileHash": "15656f7",
+          "ExportDate": "11/14/2023 5:52:04 PM",
+          "SourceModified": "11/14/2023 5:52:04 PM",
+          "FilePropertiesHash": "58d0b3b"
+        },
+        "qryVerifyMatchingDetectionsNoDetail.bas": {
+          "FileHash": "0852a90",
+          "ExportDate": "11/14/2023 5:52:04 PM",
+          "SourceModified": "11/14/2023 5:52:04 PM",
+          "FilePropertiesHash": "50eb8f1"
+        },
+        "qryVisitsRecSource.bas": {
+          "FileHash": "e99adee",
+          "ExportDate": "11/14/2023 5:52:04 PM",
+          "SourceModified": "11/14/2023 5:52:04 PM",
+          "FilePropertiesHash": "3c85034"
+        },
+        "SECRDetectorQuery.bas": {
+          "FileHash": "34bd691",
+          "ExportDate": "11/14/2023 5:52:04 PM",
+          "SourceModified": "11/14/2023 5:52:04 PM",
+          "FilePropertiesHash": "f345736"
+        },
+        "SECRQuery.bas": {
+          "FileHash": "5d464d8",
+          "ExportDate": "11/14/2023 5:52:04 PM",
+          "SourceModified": "11/14/2023 5:52:04 PM",
+          "FilePropertiesHash": "13d3444"
+        },
+        "SpeciesRecSource.bas": {
+          "FileHash": "38c152c",
+          "ExportDate": "11/14/2023 5:52:04 PM",
+          "SourceModified": "11/14/2023 5:52:04 PM",
+          "FilePropertiesHash": "7ec927c"
+        }
+      },
+      "Relations": {
+        "{021301FF-F584-4DEC-B490-AF891202202C}.json": {
+          "FileHash": "e2fcc48",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "240ee77"
+        },
+        "{04B5E5FF-0896-4391-8238-6E68199ADD59}.json": {
+          "FileHash": "ba697af",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "3461ad4"
+        },
+        "{1F082F31-01BC-4BA5-A3E3-0D4F65A7F882}.json": {
+          "FileHash": "65b5683",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "10ee870"
+        },
+        "{4E0DEAC1-E100-4666-914D-14EBED596CF1}.json": {
+          "FileHash": "c034391",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "15b4dd5"
+        },
+        "{50795D6E-D88C-45AC-B364-F01421846D6E}.json": {
+          "FileHash": "d097cfd",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "b29c38c"
+        },
+        "{60461D57-FDC5-4EBE-8879-80AB1CDD46C9}.json": {
+          "FileHash": "54f81fa",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "14a0d9d"
+        },
+        "{633FEC9B-C292-4C6A-AD1D-9C5898727E0A}.json": {
+          "FileHash": "53e71ea",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "3741ea5"
+        },
+        "{65EEA9A1-F7A6-4ED8-A35E-C518FCD620E8}.json": {
+          "FileHash": "da33c50",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "2fbebaf"
+        },
+        "{715E04DE-0BF0-4B1D-8A71-BE2D0B8B601A}.json": {
+          "FileHash": "d57deee",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "dfee63e"
+        },
+        "{7B5C03E2-9738-435D-8EF7-9452AF0E946D}.json": {
+          "FileHash": "88afbbb",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "23ac056"
+        },
+        "{7E8ED7F2-6E58-452D-BBDC-9237ED744B50}.json": {
+          "FileHash": "d9191f5",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "bae7c68"
+        },
+        "{934CD9C6-8D88-4B97-9135-0323B2A6E477}.json": {
+          "FileHash": "665026b",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "3461ad4"
+        },
+        "{9959B44A-5AD4-4CB1-A583-138D1E8A1432}.json": {
+          "FileHash": "da20d00",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "b29c38c"
+        },
+        "{9EC1C8D0-1C74-484B-817F-CB70F9B8FAC4}.json": {
+          "FileHash": "49ba4d7",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "a7ca5de"
+        },
+        "{B029EB56-894B-4EA8-9164-C72FCB3A4570}.json": {
+          "FileHash": "16684ab",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "b29c38c"
+        },
+        "{B411A333-CC6F-4765-9B4E-1B9870D39B59}.json": {
+          "FileHash": "fa78418",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "c2ee778"
+        },
+        "{BF1AC7DE-285C-46CD-83CA-59DABDF641A4}.json": {
+          "FileHash": "e29b3fb",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "dfee63e"
+        },
+        "{CF7B6855-0F8D-4E67-B78E-24F0617E2F8B}.json": {
+          "FileHash": "2e38c7e",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "b29c38c"
+        },
+        "{D781B057-3357-46C9-B4A8-3F8DD48D78D4}.json": {
+          "FileHash": "e9b182b",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "486c4d0"
+        },
+        "{F331C44D-C575-4B74-B144-B73D46648362}.json": {
+          "FileHash": "f318e94",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "0cc5870"
+        },
+        "IndependentDetectionsIndDetGroups.json": {
+          "FileHash": "7ee4b6a",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "10ee870"
+        },
+        "LicenseHeadingsLicenseItems.json": {
+          "FileHash": "9021aa7",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "93046dc"
+        },
+        "ObserversPhotoTags.json": {
+          "FileHash": "4187f2a",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "4d482bc"
+        },
+        "PhotosPhotoTags.json": {
+          "FileHash": "e728960",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "8de8691"
+        },
+        "SpeciesGroupsSpecies.json": {
+          "FileHash": "bc46ed3",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "bb41fa2"
+        },
+        "VisitsVisits.json": {
+          "FileHash": "51a2315",
+          "ExportDate": "11/14/2023 5:52:20 PM",
+          "SourceModified": "11/14/2023 5:52:20 PM",
+          "FilePropertiesHash": "9672adc"
+        }
+      },
+      "Reports": {
+        "AccessNotes.bas": {
+          "FileHash": "c2b7964",
+          "OtherHash": "7956d7f",
+          "ExportDate": "11/14/2023 5:52:17 PM",
+          "SourceModified": "11/14/2023 5:52:17 PM",
+          "FilePropertiesHash": "247aba7"
+        },
+        "AllHelp.bas": {
+          "FileHash": "7f3bf76",
+          "OtherHash": "7956d7f",
+          "ExportDate": "11/14/2023 5:52:19 PM",
+          "SourceModified": "11/14/2023 5:52:19 PM",
+          "FilePropertiesHash": "a7fb35a"
+        },
+        "CamDeploymentSummarySubreport.bas": {
+          "FileHash": "963c6b6",
+          "ExportDate": "11/14/2023 5:52:18 PM",
+          "SourceModified": "11/14/2023 5:52:18 PM",
+          "FilePropertiesHash": "53eb199"
+        },
+        "CameraPullChecklist.bas": {
+          "FileHash": "2ada542",
+          "OtherHash": "4341068",
+          "ExportDate": "11/14/2023 5:52:18 PM",
+          "SourceModified": "11/14/2023 5:52:18 PM",
+          "FilePropertiesHash": "562ef87"
+        },
+        "CameraSummary.bas": {
+          "FileHash": "a2d35e9",
+          "OtherHash": "4341068",
+          "ExportDate": "11/14/2023 5:52:18 PM",
+          "SourceModified": "11/14/2023 5:52:18 PM",
+          "FilePropertiesHash": "7d73227"
+        },
+        "CameraSummaryNoSp.bas": {
+          "FileHash": "12c2f54",
+          "OtherHash": "4341068",
+          "ExportDate": "11/14/2023 5:52:17 PM",
+          "SourceModified": "11/14/2023 5:52:17 PM",
+          "FilePropertiesHash": "954248f"
+        },
+        "CamStudyAreaSpSubreport.bas": {
+          "FileHash": "7842c6e",
+          "ExportDate": "11/14/2023 5:52:18 PM",
+          "SourceModified": "11/14/2023 5:52:18 PM",
+          "FilePropertiesHash": "ba351be"
+        },
+        "CamStudyAreaSummarySubreport.bas": {
+          "FileHash": "b5f8111",
+          "ExportDate": "11/14/2023 5:52:18 PM",
+          "SourceModified": "11/14/2023 5:52:18 PM",
+          "FilePropertiesHash": "5e680ce"
+        },
+        "CamStudyAreaSummarySubreportNoSp.bas": {
+          "FileHash": "961dd75",
+          "ExportDate": "11/14/2023 5:52:17 PM",
+          "SourceModified": "11/14/2023 5:52:17 PM",
+          "FilePropertiesHash": "c62239e"
+        },
+        "CamYearSpSubreport.bas": {
+          "FileHash": "b2919e9",
+          "ExportDate": "11/14/2023 5:52:19 PM",
+          "SourceModified": "11/14/2023 5:52:19 PM",
+          "FilePropertiesHash": "6ff88a7"
+        },
+        "DetailShortcutList.bas": {
+          "FileHash": "8c764a0",
+          "ExportDate": "11/14/2023 5:52:17 PM",
+          "SourceModified": "11/14/2023 5:52:17 PM",
+          "FilePropertiesHash": "3bfe0b8"
+        },
+        "IndDetSummary.bas": {
+          "FileHash": "6c51f98",
+          "OtherHash": "4341068",
+          "ExportDate": "11/14/2023 5:52:19 PM",
+          "SourceModified": "11/14/2023 5:52:19 PM",
+          "FilePropertiesHash": "49275a8"
+        },
+        "License.bas": {
+          "FileHash": "c27e82a",
+          "ExportDate": "11/14/2023 5:52:19 PM",
+          "SourceModified": "11/14/2023 5:52:19 PM",
+          "FilePropertiesHash": "5b994b2"
+        },
+        "LicenseItems.bas": {
+          "FileHash": "601a96b",
+          "ExportDate": "11/14/2023 5:52:19 PM",
+          "SourceModified": "11/14/2023 5:52:19 PM",
+          "FilePropertiesHash": "24d7dd0"
+        },
+        "ObsComparison.bas": {
+          "FileHash": "0b664df",
+          "OtherHash": "4341068",
+          "ExportDate": "11/14/2023 5:52:18 PM",
+          "SourceModified": "11/14/2023 5:52:18 PM",
+          "FilePropertiesHash": "d1889dc"
+        },
+        "Observers.bas": {
+          "FileHash": "7978f31",
+          "OtherHash": "4341068",
+          "ExportDate": "11/14/2023 5:52:19 PM",
+          "SourceModified": "11/14/2023 5:52:19 PM",
+          "FilePropertiesHash": "5c81c5b"
+        },
+        "ObserversSubreport.bas": {
+          "FileHash": "e2ece01",
+          "ExportDate": "11/14/2023 5:52:19 PM",
+          "SourceModified": "11/14/2023 5:52:19 PM",
+          "FilePropertiesHash": "5bb8615"
+        },
+        "ObsPhoneSubreport.bas": {
+          "FileHash": "c81d4d0",
+          "ExportDate": "11/14/2023 5:52:19 PM",
+          "SourceModified": "11/14/2023 5:52:19 PM",
+          "FilePropertiesHash": "0c152e2"
+        },
+        "PhotoIDSummary.bas": {
+          "FileHash": "c38e6ec",
+          "OtherHash": "4341068",
+          "ExportDate": "11/14/2023 5:52:18 PM",
+          "SourceModified": "11/14/2023 5:52:18 PM",
+          "FilePropertiesHash": "f274cf7"
+        },
+        "Shortcuts.bas": {
+          "FileHash": "4735bf0",
+          "OtherHash": "492d96c",
+          "ExportDate": "11/14/2023 5:52:18 PM",
+          "SourceModified": "11/14/2023 5:52:18 PM",
+          "FilePropertiesHash": "6912a4b"
+        },
+        "SpShortcutList.bas": {
+          "FileHash": "b8052bf",
+          "ExportDate": "11/14/2023 5:52:17 PM",
+          "SourceModified": "11/14/2023 5:52:17 PM",
+          "FilePropertiesHash": "cfbb00b"
+        }
+      },
+      "Tables": {
+        "CameraLocations.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:49 PM",
+          "SourceModified": "11/14/2023 5:51:49 PM",
+          "FilePropertiesHash": "0885b97"
+        },
+        "ChartHours.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:49 PM",
+          "SourceModified": "11/14/2023 5:51:49 PM",
+          "FilePropertiesHash": "f551bf7"
+        },
+        "CurrentObserver.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:49 PM",
+          "SourceModified": "11/14/2023 5:51:49 PM",
+          "FilePropertiesHash": "6deed92"
+        },
+        "DetailShortcuts.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:49 PM",
+          "SourceModified": "11/14/2023 5:51:49 PM",
+          "FilePropertiesHash": "ea2bda4"
+        },
+        "DetectionDetails.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:49 PM",
+          "SourceModified": "11/14/2023 5:51:49 PM",
+          "FilePropertiesHash": "e1d92e9"
+        },
+        "Detections.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:50 PM",
+          "SourceModified": "11/14/2023 5:51:49 PM",
+          "FilePropertiesHash": "9930ca3"
+        },
+        "Help.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:50 PM",
+          "SourceModified": "11/14/2023 5:51:50 PM",
+          "FilePropertiesHash": "1a514bf"
+        },
+        "IndDetGroups.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:50 PM",
+          "SourceModified": "11/14/2023 5:51:50 PM",
+          "FilePropertiesHash": "786ef38"
+        },
+        "IndependentDetections.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:50 PM",
+          "SourceModified": "11/14/2023 5:51:50 PM",
+          "FilePropertiesHash": "57159b3"
+        },
+        "IndividualDetections.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:50 PM",
+          "SourceModified": "11/14/2023 5:51:50 PM",
+          "FilePropertiesHash": "1ce95e1"
+        },
+        "Individuals.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:50 PM",
+          "SourceModified": "11/14/2023 5:51:50 PM",
+          "FilePropertiesHash": "7343d3b"
+        },
+        "LicenseHeadings.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:50 PM",
+          "SourceModified": "11/14/2023 5:51:50 PM",
+          "FilePropertiesHash": "8c471d7"
+        },
+        "LicenseItems.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:50 PM",
+          "SourceModified": "11/14/2023 5:51:50 PM",
+          "FilePropertiesHash": "3d464fe"
+        },
+        "lkupAgeClass.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:50 PM",
+          "SourceModified": "11/14/2023 5:51:50 PM",
+          "FilePropertiesHash": "3225abd"
+        },
+        "lkupDetectionStatus.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:50 PM",
+          "SourceModified": "11/14/2023 5:51:50 PM",
+          "FilePropertiesHash": "4ab26af"
+        },
+        "lkupExports.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:50 PM",
+          "SourceModified": "11/14/2023 5:51:50 PM",
+          "FilePropertiesHash": "e097e85"
+        },
+        "lkupGender.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:51 PM",
+          "SourceModified": "11/14/2023 5:51:51 PM",
+          "FilePropertiesHash": "c24b1b9"
+        },
+        "lkupMaintenanceTasks.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:51 PM",
+          "SourceModified": "11/14/2023 5:51:51 PM",
+          "FilePropertiesHash": "a8d08f5"
+        },
+        "lkupPhoneTypes.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:51 PM",
+          "SourceModified": "11/14/2023 5:51:51 PM",
+          "FilePropertiesHash": "7ba4507"
+        },
+        "lkupQueryBuilders.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:51 PM",
+          "SourceModified": "11/14/2023 5:51:51 PM",
+          "FilePropertiesHash": "808f184"
+        },
+        "lkupReportNames.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:51 PM",
+          "SourceModified": "11/14/2023 5:51:51 PM",
+          "FilePropertiesHash": "bbc853f"
+        },
+        "lkupVisitTypes.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:51 PM",
+          "SourceModified": "11/14/2023 5:51:51 PM",
+          "FilePropertiesHash": "59704b2"
+        },
+        "Observers.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:51 PM",
+          "SourceModified": "11/14/2023 5:51:51 PM",
+          "FilePropertiesHash": "870d1f0"
+        },
+        "ObsPhone.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:51 PM",
+          "SourceModified": "11/14/2023 5:51:51 PM",
+          "FilePropertiesHash": "4f3afb3"
+        },
+        "Photos.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:52 PM",
+          "SourceModified": "11/14/2023 5:51:51 PM",
+          "FilePropertiesHash": "dd50bb6"
+        },
+        "PhotoTags.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:52 PM",
+          "SourceModified": "11/14/2023 5:51:52 PM",
+          "FilePropertiesHash": "230d727"
+        },
+        "Species.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:52 PM",
+          "SourceModified": "11/14/2023 5:51:52 PM",
+          "FilePropertiesHash": "146e80d"
+        },
+        "SpeciesGroups.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:52 PM",
+          "SourceModified": "11/14/2023 5:51:52 PM",
+          "FilePropertiesHash": "e5592d9"
+        },
+        "SpeciesShortcuts.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:52 PM",
+          "SourceModified": "11/14/2023 5:51:52 PM",
+          "FilePropertiesHash": "b12506b"
+        },
+        "StudyAreas.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:52 PM",
+          "SourceModified": "11/14/2023 5:51:52 PM",
+          "FilePropertiesHash": "e8bcb1a"
+        },
+        "SwitchboardItems.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:52 PM",
+          "SourceModified": "11/14/2023 5:51:52 PM",
+          "FilePropertiesHash": "8a78213"
+        },
+        "Version.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:52 PM",
+          "SourceModified": "11/14/2023 5:51:52 PM",
+          "FilePropertiesHash": "690e88e"
+        },
+        "Visits.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "11/14/2023 5:51:52 PM",
+          "SourceModified": "11/14/2023 5:51:52 PM",
+          "FilePropertiesHash": "e8dbdca"
+        }
+      },
+      "Themes": {
+        "Office Theme.thmx": {
+          "FileHash": "f8d58e1",
+          "OtherHash": "310a6ac",
+          "ExportDate": "11/14/2023 5:51:49 PM",
+          "SourceModified": "11/14/2023 5:51:49 PM",
+          "FilePropertiesHash": "0152b86"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "FileHash": "1c1ea66",
+          "ExportDate": "11/14/2023 5:51:49 PM",
+          "SourceModified": "11/14/2023 5:51:49 PM",
+          "FilePropertiesHash": "215500a"
+        }
+      },
+      "VBE References": {
+        "vbe-references.json": {
+          "FileHash": "63eaf58",
+          "ExportDate": "11/14/2023 5:51:49 PM",
+          "SourceModified": "11/14/2023 5:51:49 PM",
+          "FilePropertiesHash": "9b93404"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{65EEA9A1-F7A6-4ED8-A35E-C518FCD620E8}",
+    "Attributes": 0,
+    "Table": "lkupDetectionStatus",
+    "ForeignTable": "Detections",
+    "Fields": [
+      {
+        "Name": "StatusID",
+        "ForeignName": "StatusID"
+      }
+    ]
+  }
+}

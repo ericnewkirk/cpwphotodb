@@ -1,0 +1,10 @@
+﻿CREATE TABLE [Visits] (
+  [VisitID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [LocationID] LONG  CONSTRAINT [{9959B44A-5AD4-4CB1-A583-138D1E8A1432}] REFERENCES [CameraLocations] ([LocationID]) ON UPDATE CASCADE  ON DELETE CASCADE ,
+  [VisitTypeID] LONG ,
+  [VisitDate] DATETIME ,
+  [Comments] LONGTEXT ,
+  [ActiveStart] DATETIME ,
+  [ActiveEnd] DATETIME ,
+  [SetVisitID] LONG 
+)
