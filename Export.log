@@ -5,7 +5,7 @@ VCS Version 4.0.25
 Full Path: C:\Users\eric\Desktop\CPWPhotoWarehouse_v4.accdb
 Export Folder: C:\Users\eric\Desktop\CPWPhotoWarehouse_v4.accdb.src\
 Performing Full Export
-11/14/2023 5:51:44 PM
+11/14/2023 6:07:44 PM
 -------------------------------------
 Scanning source files...
 No db connections found in this database.
@@ -15,249 +15,248 @@ No saved specs found in this database.
 No shared images found in this database.
 No imex specs found in this database.
 No macros found in this database.
-No table data found in this database.
 No table data macros found in this database.
 No hidden attributes found in this database.
 -------------------------------------
 Exporting project...          
   CPWPhotoWarehouse_v4.accdb
-[1]
+[1] project processed.
 -------------------------------------
 Exporting vb project...       
   CPWPhotoWarehouse4
-[1]
+[1] vb project processed.
 -------------------------------------
 Exporting vbe references...   
   DAO
-[2]
+[2] vbe references processed.
 -------------------------------------
 Exporting themes...           
   Office Theme
-[1]
+[1] themes processed.
 -------------------------------------
 Exporting db properties...    
   Database Properties (DAO)
-[48]
+[48] db properties processed.
 -------------------------------------
 Exporting tables...           
   CameraLocations
-    Sanitized in 0.013 seconds.
+    Sanitized in 0.005 seconds.
   CameraLocations (SQL)
   ChartHours
-    Sanitized in 0.004 seconds.
+    Sanitized in 0.002 seconds.
   ChartHours (SQL)
   CurrentObserver
-    Sanitized in 0.004 seconds.
+    Sanitized in 0.002 seconds.
   CurrentObserver (SQL)
   DetailShortcuts
-    Sanitized in 0.004 seconds.
+    Sanitized in 0.002 seconds.
   DetailShortcuts (SQL)
   DetectionDetails
-    Sanitized in 0.013 seconds.
+    Sanitized in 0.003 seconds.
   DetectionDetails (SQL)
   Detections
-    Sanitized in 0.006 seconds.
+    Sanitized in 0.003 seconds.
   Detections (SQL)
   Help
-    Sanitized in 0.009 seconds.
+    Sanitized in 0.003 seconds.
   Help (SQL)
   IndDetGroups
-    Sanitized in 0.006 seconds.
+    Sanitized in 0.003 seconds.
   IndDetGroups (SQL)
   IndependentDetections
-    Sanitized in 0.006 seconds.
+    Sanitized in 0.003 seconds.
   IndependentDetections (SQL)
   IndividualDetections
-    Sanitized in 0.004 seconds.
+    Sanitized in 0.002 seconds.
   IndividualDetections (SQL)
   Individuals
-    Sanitized in 0.005 seconds.
+    Sanitized in 0.004 seconds.
   Individuals (SQL)
   LicenseHeadings
-    Sanitized in 0.005 seconds.
+    Sanitized in 0.004 seconds.
   LicenseHeadings (SQL)
   LicenseItems
-    Sanitized in 0.033 seconds.
+    Sanitized in 0.003 seconds.
   LicenseItems (SQL)
   lkupAgeClass
-    Sanitized in 0.004 seconds.
+    Sanitized in 0.006 seconds.
   lkupAgeClass (SQL)
   lkupDetectionStatus
-    Sanitized in 0.129 seconds.
+    Sanitized in 0.003 seconds.
   lkupDetectionStatus (SQL)
   lkupExports
-    Sanitized in 0.045 seconds.
+    Sanitized in 0.006 seconds.
   lkupExports (SQL)
   lkupGender
-    Sanitized in 0.037 seconds.
+    Sanitized in 0.004 seconds.
   lkupGender (SQL)
   lkupMaintenanceTasks
-    Sanitized in 0.040 seconds.
+    Sanitized in 0.005 seconds.
   lkupMaintenanceTasks (SQL)
   lkupPhoneTypes
-    Sanitized in 0.034 seconds.
+    Sanitized in 0.006 seconds.
   lkupPhoneTypes (SQL)
   lkupQueryBuilders
-    Sanitized in 0.034 seconds.
+    Sanitized in 0.003 seconds.
   lkupQueryBuilders (SQL)
   lkupReportNames
-    Sanitized in 0.035 seconds.
+    Sanitized in 0.005 seconds.
   lkupReportNames (SQL)
   lkupVisitTypes
-    Sanitized in 0.040 seconds.
+    Sanitized in 0.004 seconds.
   lkupVisitTypes (SQL)
   Observers
-    Sanitized in 0.034 seconds.
+    Sanitized in 0.006 seconds.
   Observers (SQL)
   ObsPhone
-    Sanitized in 0.005 seconds.
+    Sanitized in 0.004 seconds.
   ObsPhone (SQL)
   Photos
-    Sanitized in 0.037 seconds.
+    Sanitized in 0.004 seconds.
   Photos (SQL)
   PhotoTags
-    Sanitized in 0.031 seconds.
+    Sanitized in 0.003 seconds.
   PhotoTags (SQL)
   Species
-    Sanitized in 0.033 seconds.
+    Sanitized in 0.003 seconds.
   Species (SQL)
   SpeciesGroups
-    Sanitized in 0.032 seconds.
+    Sanitized in 0.005 seconds.
   SpeciesGroups (SQL)
   SpeciesShortcuts
-    Sanitized in 0.033 seconds.
+    Sanitized in 0.004 seconds.
   SpeciesShortcuts (SQL)
   StudyAreas
-    Sanitized in 0.031 seconds.
+    Sanitized in 0.005 seconds.
   StudyAreas (SQL)
   SwitchboardItems
-    Sanitized in 0.031 seconds.
+    Sanitized in 0.005 seconds.
   SwitchboardItems (SQL)
   Version
-    Sanitized in 0.031 seconds.
+    Sanitized in 0.003 seconds.
   Version (SQL)
   Visits
-    Sanitized in 0.033 seconds.
+    Sanitized in 0.006 seconds.
   Visits (SQL)
-[33]
+[33] tables processed.
 -------------------------------------
 Exporting queries...          
   ActivityPatternQuery
-    Sanitized in 0.032 seconds.
+    Sanitized in 0.005 seconds.
   ActivityPatternQuery (SQL)
   CopyTestDupFileNames
-    Sanitized in 0.031 seconds.
+    Sanitized in 0.004 seconds.
   CopyTestDupFileNames (SQL)
   DetailsRecSource
-    Sanitized in 0.030 seconds.
+    Sanitized in 0.005 seconds.
   DetailsRecSource (SQL)
   DetectionSummaryQuery
-    Sanitized in 0.030 seconds.
+    Sanitized in 0.003 seconds.
   DetectionSummaryQuery (SQL)
   FilmStripRecSource
-    Sanitized in 0.062 seconds.
+    Sanitized in 0.003 seconds.
   FilmStripRecSource (SQL)
   MarkRecaptureQuery
-    Sanitized in 0.033 seconds.
+    Sanitized in 0.002 seconds.
   MarkRecaptureQuery (SQL)
   MissingPhotoFolders
-    Sanitized in 0.028 seconds.
+    Sanitized in 0.004 seconds.
   MissingPhotoFolders (SQL)
   MissingPhotos
-    Sanitized in 0.051 seconds.
+    Sanitized in 0.004 seconds.
   MissingPhotos (SQL)
   OccupancyQuery
-    Sanitized in 0.029 seconds.
+    Sanitized in 0.004 seconds.
   OccupancyQuery (SQL)
   PhotoIDCompare
-    Sanitized in 0.032 seconds.
+    Sanitized in 0.006 seconds.
   PhotoIDCompare (SQL)
   PhotoIDNeedID
     Sanitized in 0.004 seconds.
   PhotoIDNeedID (SQL)
   PhotoIDRecSource
-    Sanitized in 0.006 seconds.
+    Sanitized in 0.004 seconds.
   PhotoIDRecSource (SQL)
   PhotoViewerQuery
-    Sanitized in 0.046 seconds.
+    Sanitized in 0.004 seconds.
   PhotoViewerQuery (SQL)
   qryAccessRecSource
-    Sanitized in 0.037 seconds.
+    Sanitized in 0.002 seconds.
   qryAccessRecSource (SQL)
   qryAdjustImageDates
-    Sanitized in 0.034 seconds.
+    Sanitized in 0.003 seconds.
   qryAdjustImageDates (SQL)
   qryAdjustIndDetRecSource
     Sanitized in 0.003 seconds.
   qryAdjustIndDetRecSource (SQL)
   qryAllPhotoObsInits
-    Sanitized in 0.006 seconds.
+    Sanitized in 0.004 seconds.
   qryAllPhotoObsInits (SQL)
   qryBatchIDRecSource
-    Sanitized in 0.028 seconds.
+    Sanitized in 0.003 seconds.
   qryBatchIDRecSource (SQL)
   qryCamDeploymentSummary
-    Sanitized in 0.008 seconds.
+    Sanitized in 0.005 seconds.
   qryCamDeploymentSummary (SQL)
   qryCameraLocationsByName
-    Sanitized in 0.031 seconds.
+    Sanitized in 0.006 seconds.
   qryCameraLocationsByName (SQL)
   qryCameraLocationsLatLong
-    Sanitized in 0.031 seconds.
+    Sanitized in 0.006 seconds.
   qryCameraLocationsLatLong (SQL)
   qryCameraLocationsUTM
-    Sanitized in 0.032 seconds.
+    Sanitized in 0.003 seconds.
   qryCameraLocationsUTM (SQL)
   qryCameraPullRecSource
-    Sanitized in 0.046 seconds.
+    Sanitized in 0.002 seconds.
   qryCameraPullRecSource (SQL)
   qryCamStudyAreaSpSummary
-    Sanitized in 0.007 seconds.
+    Sanitized in 0.005 seconds.
   qryCamStudyAreaSpSummary (SQL)
   qryCamStudyAreaSummary
     Sanitized in 0.006 seconds.
   qryCamStudyAreaSummary (SQL)
   qryCamYearSpSummary
-    Sanitized in 0.004 seconds.
+    Sanitized in 0.003 seconds.
   qryCamYearSpSummary (SQL)
   qryCamYearSummary
-    Sanitized in 0.008 seconds.
+    Sanitized in 0.005 seconds.
   qryCamYearSummary (SQL)
   qryCRSubquery
     Sanitized in 0.005 seconds.
   qryCRSubquery (SQL)
   qryCurrentObserverName
-    Sanitized in 0.030 seconds.
+    Sanitized in 0.003 seconds.
   qryCurrentObserverName (SQL)
   qryDeleteNewDetections
-    Sanitized in 0.026 seconds.
+    Sanitized in 0.002 seconds.
   qryDeleteNewDetections (SQL)
   qryEditActiveDates
-    Sanitized in 0.033 seconds.
+    Sanitized in 0.004 seconds.
   qryEditActiveDates (SQL)
   qryFlatFilePending
-    Sanitized in 0.032 seconds.
+    Sanitized in 0.003 seconds.
   qryFlatFilePending (SQL)
   qryFlatFileVerified
-    Sanitized in 0.037 seconds.
+    Sanitized in 0.006 seconds.
   qryFlatFileVerified (SQL)
   qryIndDetBySpLocSubquery
-    Sanitized in 0.033 seconds.
+    Sanitized in 0.004 seconds.
   qryIndDetBySpLocSubquery (SQL)
   qryIndDetBySpSubquery
-    Sanitized in 0.007 seconds.
+    Sanitized in 0.006 seconds.
   qryIndDetBySpSubquery (SQL)
   qryIndDetFilmStripRecSource
-    Sanitized in 0.002 seconds.
+    Sanitized in 0.003 seconds.
   qryIndDetFilmStripRecSource (SQL)
   qryIndDetGroupsSummary
-    Sanitized in 0.032 seconds.
+    Sanitized in 0.005 seconds.
   qryIndDetGroupsSummary (SQL)
   qryIndDetKnownIndividuals
-    Sanitized in 0.028 seconds.
+    Sanitized in 0.005 seconds.
   qryIndDetKnownIndividuals (SQL)
   qryIndDetNeedID
-    Sanitized in 0.005 seconds.
+    Sanitized in 0.004 seconds.
   qryIndDetNeedID (SQL)
   qryIndDetNeedSummary
     Sanitized in 0.004 seconds.
@@ -269,40 +268,40 @@ Exporting queries...
     Sanitized in 0.003 seconds.
   qryIndDetReport (SQL)
   qryIndividualDetections
-    Sanitized in 0.004 seconds.
+    Sanitized in 0.005 seconds.
   qryIndividualDetections (SQL)
   qryMakeAPTable
-    Sanitized in 0.031 seconds.
+    Sanitized in 0.004 seconds.
   qryMakeAPTable (SQL)
   qryMarkEffort
-    Sanitized in 0.027 seconds.
+    Sanitized in 0.003 seconds.
   qryMarkEffort (SQL)
   qryModDeleteExisting
-    Sanitized in 0.002 seconds.
+    Sanitized in 0.001 seconds.
   qryModDeleteExisting (SQL)
   qryModDeleteMatching
-    Sanitized in 0.002 seconds.
+    Sanitized in 0.001 seconds.
   qryModDeleteMatching (SQL)
   qryModImportDetails
-    Sanitized in 0.004 seconds.
+    Sanitized in 0.003 seconds.
   qryModImportDetails (SQL)
   qryModImportDetections
     Sanitized in 0.002 seconds.
   qryModImportDetections (SQL)
   qryModImportObs
-    Sanitized in 0.003 seconds.
+    Sanitized in 0.002 seconds.
   qryModImportObs (SQL)
   qryModImportObsPhone
     Sanitized in 0.003 seconds.
   qryModImportObsPhone (SQL)
   qryModImportPhotoTags
-    Sanitized in 0.004 seconds.
+    Sanitized in 0.003 seconds.
   qryModImportPhotoTags (SQL)
   qryModImportSpecies
-    Sanitized in 0.003 seconds.
+    Sanitized in 0.004 seconds.
   qryModImportSpecies (SQL)
   qryModuleResults
-    Sanitized in 0.002 seconds.
+    Sanitized in 0.003 seconds.
   qryModuleResults (SQL)
   qryModUpdateDetails
     Sanitized in 0.002 seconds.
@@ -311,7 +310,7 @@ Exporting queries...
     Sanitized in 0.002 seconds.
   qryModUpdateFlags (SQL)
   qryModUpdateHighlights
-    Sanitized in 0.002 seconds.
+    Sanitized in 0.003 seconds.
   qryModUpdateHighlights (SQL)
   qryModUpdateObs
     Sanitized in 0.002 seconds.
@@ -320,49 +319,49 @@ Exporting queries...
     Sanitized in 0.002 seconds.
   qryModUpdateSpecies (SQL)
   qryObsComparison
-    Sanitized in 0.004 seconds.
+    Sanitized in 0.003 seconds.
   qryObsComparison (SQL)
   qryPhotoIDSummary
-    Sanitized in 0.003 seconds.
+    Sanitized in 0.004 seconds.
   qryPhotoIDSummary (SQL)
   qryPhotoIDSummarySubquery1
-    Sanitized in 0.006 seconds.
+    Sanitized in 0.007 seconds.
   qryPhotoIDSummarySubquery1 (SQL)
   qryPhotoIDSummarySubquery2
-    Sanitized in 0.005 seconds.
+    Sanitized in 0.003 seconds.
   qryPhotoIDSummarySubquery2 (SQL)
   qryPhotoSpecies
     Sanitized in 0.004 seconds.
   qryPhotoSpecies (SQL)
   qryPivotPending
-    Sanitized in 0.011 seconds.
+    Sanitized in 0.008 seconds.
   qryPivotPending (SQL)
   qryPivotVerified
-    Sanitized in 0.009 seconds.
+    Sanitized in 0.007 seconds.
   qryPivotVerified (SQL)
   qryPVComboRowSource
-    Sanitized in 0.006 seconds.
+    Sanitized in 0.004 seconds.
   qryPVComboRowSource (SQL)
   qryPVComboWithDetails
-    Sanitized in 0.006 seconds.
+    Sanitized in 0.003 seconds.
   qryPVComboWithDetails (SQL)
   qryPVComboWithSpecies
-    Sanitized in 0.006 seconds.
+    Sanitized in 0.007 seconds.
   qryPVComboWithSpecies (SQL)
   qryResultsByLocationLatLong
-    Sanitized in 0.009 seconds.
+    Sanitized in 0.007 seconds.
   qryResultsByLocationLatLong (SQL)
   qryResultsByLocationUTM
-    Sanitized in 0.009 seconds.
+    Sanitized in 0.006 seconds.
   qryResultsByLocationUTM (SQL)
   qrySECRDetSubquery
-    Sanitized in 0.006 seconds.
+    Sanitized in 0.005 seconds.
   qrySECRDetSubquery (SQL)
   qrySpPivotPending
     Sanitized in 0.011 seconds.
   qrySpPivotPending (SQL)
   qrySpPivotVerified
-    Sanitized in 0.011 seconds.
+    Sanitized in 0.007 seconds.
   qrySpPivotVerified (SQL)
   qryTrapNightsByLoc
     Sanitized in 0.004 seconds.
@@ -371,208 +370,229 @@ Exporting queries...
     Sanitized in 0.007 seconds.
   qryValidDetections (SQL)
   qryVerifyMatchingDetections
-    Sanitized in 0.008 seconds.
+    Sanitized in 0.002 seconds.
   qryVerifyMatchingDetections (SQL)
   qryVerifyMatchingDetectionsNoDetail
     Sanitized in 0.002 seconds.
   qryVerifyMatchingDetectionsNoDetail (SQL)
   qryVisitsRecSource
-    Sanitized in 0.006 seconds.
+    Sanitized in 0.003 seconds.
   qryVisitsRecSource (SQL)
   SECRDetectorQuery
-    Sanitized in 0.004 seconds.
+    Sanitized in 0.003 seconds.
   SECRDetectorQuery (SQL)
   SECRQuery
-    Sanitized in 0.004 seconds.
+    Sanitized in 0.005 seconds.
   SECRQuery (SQL)
   SpeciesRecSource
-    Sanitized in 0.005 seconds.
+    Sanitized in 0.004 seconds.
   SpeciesRecSource (SQL)
-[82]
+[82] queries processed.
 -------------------------------------
 Exporting forms...            
   CamFilmStrip
-    Sanitized in 0.012 seconds.
+Loading Printer info for: 'Microsoft Print to PDF'.
+    Sanitized in 0.006 seconds.
   IndDetFilmStrip
-    Sanitized in 0.019 seconds.
+    Sanitized in 0.014 seconds.
   PhotoViewerQueryResults
-    Sanitized in 0.030 seconds.
+    Sanitized in 0.012 seconds.
   CreditsForm
-    Sanitized in 0.128 seconds.
+    Sanitized in 0.127 seconds.
   DetailsShortcutSubform
-    Sanitized in 0.024 seconds.
+    Sanitized in 0.012 seconds.
   SpeciesShortcutSubform
-    Sanitized in 0.020 seconds.
+    Sanitized in 0.010 seconds.
   ImportData
-    Sanitized in 0.011 seconds.
+    Sanitized in 0.005 seconds.
   IndDetGroupsSubform
-    Sanitized in 0.025 seconds.
+    Sanitized in 0.012 seconds.
   ObsPhoneSubform
-    Sanitized in 0.024 seconds.
+    Sanitized in 0.012 seconds.
   PhotoIDDetectionsSubform
-    Sanitized in 0.033 seconds.
-  PhotosSubform
     Sanitized in 0.028 seconds.
+  PhotosSubform
+    Sanitized in 0.022 seconds.
   Individuals
-    Sanitized in 0.038 seconds.
+    Sanitized in 0.017 seconds.
   SetRefPhotoPopup
     Sanitized in 0.024 seconds.
   SingleVisitPopup
-    Sanitized in 0.029 seconds.
+    Sanitized in 0.015 seconds.
   PhotoID
-    Sanitized in 0.053 seconds.
+    Sanitized in 0.061 seconds.
   ActivityQueryBuilder
-    Sanitized in 0.086 seconds.
+    Sanitized in 0.049 seconds.
   DetectionSummaryQueryBuilder
-    Sanitized in 0.078 seconds.
+    Sanitized in 0.031 seconds.
   AddIndDetections
-    Sanitized in 0.033 seconds.
+    Sanitized in 0.024 seconds.
   PhotoIDLogin
-    Sanitized in 0.024 seconds.
+    Sanitized in 0.012 seconds.
   EditActiveDates
-    Sanitized in 0.036 seconds.
+    Sanitized in 0.019 seconds.
   EditShortcuts
-    Sanitized in 0.023 seconds.
+    Sanitized in 0.012 seconds.
   FlatFileQueryBuilder
-    Sanitized in 0.041 seconds.
-  MergeSpecies
-    Sanitized in 0.025 seconds.
-  PhotoViewer
-    Sanitized in 0.086 seconds.
-  SpatialQueryBuilder
-    Sanitized in 0.047 seconds.
-  Species
-    Sanitized in 0.039 seconds.
-  IndividualID
-    Sanitized in 0.058 seconds.
-  MergeInd
-    Sanitized in 0.029 seconds.
-  UpdateDriveLetter
-    Sanitized in 0.029 seconds.
-  IndIDDetectionsSubform
-    Sanitized in 0.024 seconds.
-  Observers
-    Sanitized in 0.036 seconds.
-  PhotoIDDSModule
-    Sanitized in 0.029 seconds.
-  Switchboard
-    Sanitized in 0.074 seconds.
-  VisitModule
-    Sanitized in 0.044 seconds.
-  AddVisitPopup
-    Sanitized in 0.023 seconds.
-  CurrentObserverSubform
-    Sanitized in 0.022 seconds.
-  SpeciesTemp
-    Sanitized in 0.021 seconds.
-  Startup
-    Sanitized in 0.004 seconds.
-  UpdateImagePath
     Sanitized in 0.033 seconds.
+  MergeSpecies
+    Sanitized in 0.015 seconds.
+  PhotoViewer
+    Sanitized in 0.046 seconds.
+  SpatialQueryBuilder
+    Sanitized in 0.027 seconds.
+  Species
+    Sanitized in 0.017 seconds.
+  IndividualID
+    Sanitized in 0.030 seconds.
+  MergeInd
+    Sanitized in 0.013 seconds.
+  UpdateDriveLetter
+    Sanitized in 0.015 seconds.
+  IndIDDetectionsSubform
+    Sanitized in 0.017 seconds.
+  Observers
+    Sanitized in 0.015 seconds.
+  PhotoIDDSModule
+    Sanitized in 0.013 seconds.
+  Switchboard
+    Sanitized in 0.073 seconds.
+  VisitModule
+    Sanitized in 0.021 seconds.
+  AddVisitPopup
+    Sanitized in 0.011 seconds.
+  CurrentObserverSubform
+    Sanitized in 0.008 seconds.
+  SpeciesTemp
+    Sanitized in 0.014 seconds.
+  Startup
+    Sanitized in 0.005 seconds.
+  UpdateImagePath
+    Sanitized in 0.030 seconds.
   ImportModule
-    Sanitized in 0.027 seconds.
+    Sanitized in 0.014 seconds.
   PhotoIDModule
-    Sanitized in 0.060 seconds.
-  APChart
-    Sanitized in 0.032 seconds.
-  DeletePhotos
-    Sanitized in 0.029 seconds.
-  SpeciesGroups
-    Sanitized in 0.028 seconds.
-  StudyAreas
-    Sanitized in 0.035 seconds.
-  AdjustImageDates
-    Sanitized in 0.032 seconds.
-  DetectionDetails
-    Sanitized in 0.031 seconds.
-  MergeDetails
-    Sanitized in 0.029 seconds.
-  OccupancyQueryBuilder
-    Sanitized in 0.075 seconds.
-  SECRQueryBuilder
-    Sanitized in 0.082 seconds.
-  PhotoIDClose
-    Sanitized in 0.020 seconds.
-  VisitsSubformSingle
-    Sanitized in 0.031 seconds.
-  APZones
-    Sanitized in 0.032 seconds.
-  CopyPhotos
-    Sanitized in 0.046 seconds.
-  DeleteVisitPhotos
-    Sanitized in 0.035 seconds.
-  ImportOptions
-    Sanitized in 0.066 seconds.
-  IndRefPhotos
-    Sanitized in 0.030 seconds.
-  AdjustIndDet
-    Sanitized in 0.026 seconds.
-  ReportOptions
-    Sanitized in 0.036 seconds.
-  Help
-    Sanitized in 0.135 seconds.
-  ExportQuery
-    Sanitized in 0.034 seconds.
-  EditActiveDatesSingle
-    Sanitized in 0.028 seconds.
-  CameraLocations
-    Sanitized in 0.050 seconds.
-  QueryBuilders
-    Sanitized in 0.025 seconds.
-  BatchPhotoID
-    Sanitized in 0.046 seconds.
-  VisitsSubformList
-    Sanitized in 0.030 seconds.
-  Visits
     Sanitized in 0.027 seconds.
+  APChart
+    Sanitized in 0.018 seconds.
+  DeletePhotos
+    Sanitized in 0.016 seconds.
+  SpeciesGroups
+    Sanitized in 0.013 seconds.
+  StudyAreas
+    Sanitized in 0.013 seconds.
+  AdjustImageDates
+    Sanitized in 0.015 seconds.
+  DetectionDetails
+    Sanitized in 0.032 seconds.
+  MergeDetails
+    Sanitized in 0.026 seconds.
+  OccupancyQueryBuilder
+    Sanitized in 0.048 seconds.
+  SECRQueryBuilder
+    Sanitized in 0.044 seconds.
+  PhotoIDClose
+    Sanitized in 0.009 seconds.
+  VisitsSubformSingle
+    Sanitized in 0.012 seconds.
+  APZones
+    Sanitized in 0.013 seconds.
+  CopyPhotos
+    Sanitized in 0.021 seconds.
+  DeleteVisitPhotos
+    Sanitized in 0.027 seconds.
+  ImportOptions
+    Sanitized in 0.040 seconds.
+  IndRefPhotos
+    Sanitized in 0.014 seconds.
+  AdjustIndDet
+    Sanitized in 0.019 seconds.
+  ReportOptions
+    Sanitized in 0.016 seconds.
+  Help
+    Sanitized in 0.070 seconds.
+  ExportQuery
+    Sanitized in 0.029 seconds.
+  EditActiveDatesSingle
+    Sanitized in 0.027 seconds.
+  CameraLocations
+    Sanitized in 0.019 seconds.
+  QueryBuilders
+    Sanitized in 0.013 seconds.
+  BatchPhotoID
+    Sanitized in 0.020 seconds.
+  VisitsSubformList
+    Sanitized in 0.014 seconds.
+  Visits
+    Sanitized in 0.012 seconds.
   Maintenance
-    Sanitized in 0.039 seconds.
-[68]
+    Sanitized in 0.019 seconds.
+[68] forms processed.
 -------------------------------------
 Exporting reports...          
   CamStudyAreaSummarySubreportNoSp
-    Sanitized in 0.050 seconds.
+    Sanitized in 0.024 seconds.
   AccessNotes
-    Sanitized in 0.027 seconds.
+    Sanitized in 0.020 seconds.
   CameraSummaryNoSp
-    Sanitized in 0.049 seconds.
+    Sanitized in 0.027 seconds.
   DetailShortcutList
-    Sanitized in 0.025 seconds.
+    Sanitized in 0.013 seconds.
   SpShortcutList
     Sanitized in 0.023 seconds.
   Shortcuts
-    Sanitized in 0.027 seconds.
+    Sanitized in 0.011 seconds.
   CameraSummary
-    Sanitized in 0.052 seconds.
+    Sanitized in 0.061 seconds.
   ObsComparison
-    Sanitized in 0.031 seconds.
+    Sanitized in 0.028 seconds.
   PhotoIDSummary
-    Sanitized in 0.045 seconds.
+    Sanitized in 0.022 seconds.
   CamDeploymentSummarySubreport
-    Sanitized in 0.031 seconds.
+    Sanitized in 0.016 seconds.
   CameraPullChecklist
-    Sanitized in 0.048 seconds.
+    Sanitized in 0.015 seconds.
   CamStudyAreaSpSubreport
-    Sanitized in 0.024 seconds.
+    Sanitized in 0.011 seconds.
   CamStudyAreaSummarySubreport
-    Sanitized in 0.047 seconds.
+    Sanitized in 0.024 seconds.
   CamYearSpSubreport
-    Sanitized in 0.023 seconds.
+    Sanitized in 0.010 seconds.
   Observers
-    Sanitized in 0.020 seconds.
+    Sanitized in 0.009 seconds.
   ObserversSubreport
-    Sanitized in 0.022 seconds.
+    Sanitized in 0.013 seconds.
   ObsPhoneSubreport
-    Sanitized in 0.020 seconds.
+    Sanitized in 0.010 seconds.
   IndDetSummary
-    Sanitized in 0.032 seconds.
+    Sanitized in 0.023 seconds.
   AllHelp
-    Sanitized in 0.027 seconds.
+    Sanitized in 0.021 seconds.
   License
-    Sanitized in 0.022 seconds.
+    Sanitized in 0.010 seconds.
   LicenseItems
-    Sanitized in 0.019 seconds.
-[21]
+    Sanitized in 0.009 seconds.
+[21] reports processed.
+-------------------------------------
+Exporting table data...       
+  ChartHours
+  Help
+  LicenseHeadings
+  LicenseItems
+  lkupAgeClass
+  lkupDetectionStatus
+  lkupExports
+  lkupGender
+  lkupMaintenanceTasks
+  lkupPhoneTypes
+  lkupQueryBuilders
+  lkupReportNames
+  lkupVisitTypes
+  Species
+  SpeciesShortcuts
+  SwitchboardItems
+  Version
+[17] table data processed.
 -------------------------------------
 Exporting modules...          
   CoordinateConverter
@@ -580,7 +600,7 @@ Exporting modules...
   CustomFunctions
   NewFunctions2016
   FunctionsForPhotoID
-[5]
+[5] modules processed.
 -------------------------------------
 Exporting relations...        
   {021301FF-F584-4DEC-B490-AF891202202C}
@@ -609,85 +629,89 @@ Exporting relations...
   PhotosPhotoTags
   SpeciesGroupsSpecies
   VisitsVisits
-[26]
+[26] relations processed.
 -------------------------------------
 Exporting doc properties...   
   Database Documents
-[9]
+[9] doc properties processed.
 -------------------------------------
 Exporting nav pane groups...  
   Groups
-[29]
+[29] nav pane groups processed.
 -------------------------------------
-Done. (37.52 seconds)
+Done. (32.82 seconds)
 
 --------------------------------------------------
                 PERFORMANCE REPORTS
 --------------------------------------------------
 Category                      Count     Seconds
 --------------------------------------------------
-Forms                         68        12.65
-Queries                       82        11.99
-Tables                        33        3.25
-Reports                       21        2.52
-DB Connections                0         2.31
-Nav Pane Groups               29        1.70
-Relations                     26        0.55
-Modules                       5         0.48
-Doc Properties                9         0.42
-DB Properties                 48        0.18
-Table Data Macros             0         0.07
-Project                       1         0.07
-Themes                        1         0.07
-VBE References                2         0.06
-Hidden Attributes             0         0.04
+Forms                         68        11.46
+Queries                       82        9.86
+Reports                       21        2.75
+Tables                        33        2.58
+Relations                     26        2.20
+Table Data                    17        1.41
+Nav Pane Groups               29        1.03
+Modules                       5         0.53
+Doc Properties                9         0.27
+DB Properties                 48        0.12
+DB Connections                0         0.07
+Themes                        1         0.06
+Table Data Macros             0         0.05
+Project                       1         0.05
+VBE References                2         0.04
 VB Project                    1         0.04
+Hidden Attributes             0         0.02
 Proj Properties               0         0.01
 Shared Images                 0         0.01
 VBE Forms                     0         0.00
 IMEX Specs                    0         0.00
-Table Data                    0         0.00
-Saved Specs                   0         0.00
 Macros                        0         0.00
+Saved Specs                   0         0.00
 --------------------------------------------------
-TOTALS:                       326       36.44
+TOTALS:                       343       32.57
 --------------------------------------------------
 
 --------------------------------------------------
 Operations                    Count     Seconds
 --------------------------------------------------
-App.SaveAsText()              171       8.14
-Read File Bytes               299       4.85
-Write File                    373       4.02
-Sanitize File                 171       3.41
-Scan DB Objects               1         3.02
-Format SQL                    82        2.58
-Convert to JSON               8873      2.21
-App.ExportXML()               33        0.86
-Increment Progress            484       0.79
-Read File DevMode             89        0.64
-Console Updates               8         0.54
-Read File                     298       0.43
-Save Query SQL                82        0.42
-Quick Count Objects           1         0.36
-Save Table SQL                33        0.24
-Compute SHA256                663       0.21
-Get File Property Hash        242       0.16
-Get VBA Hash                  94        0.15
-Get Modified Date             242       0.10
-Verify Path                   578       0.10
-Check for linked table        33        0.06
-Sanitize XML                  33        0.06
-Format XML                    33        0.05
+Increment Progress            1157      10.41
+Read File Bytes               299       5.53
+App.SaveAsText()              171       4.47
+Sanitize File                 171       2.08
+Format SQL                    82        1.87
+Convert to JSON               8907      1.32
+Console Updates               32        1.12
+Scan DB Objects               1         0.64
+Read File DevMode             89        0.42
+Save Query SQL                82        0.37
+Write File                    390       0.35
+Read File                     299       0.31
+App.ExportXML()               33        0.27
+Save Table SQL                33        0.23
+Get File Property Hash        484       0.22
+Compute SHA256                905       0.20
+Clear Orphaned Files          7         0.18
+Export Table Data as TDF      17        0.17
+Get VBA Hash                  94        0.10
+Delete File                   178       0.10
+Verify Path                   595       0.09
+Get Modified Date             242       0.08
+Parse JSON                    1         0.05
+Sanitize XML                  33        0.05
+Quick Count Objects           1         0.04
+Check for linked table        33        0.04
 Export VBE Module             5         0.04
-Sanitize Code Lines           75        0.02
-Sanitize VBA Code             5         0.02
+Format XML                    33        0.04
+Sanitize VBA Code             5         0.01
+Sanitize Code Lines           75        0.01
 Quick Count Files             1         0.01
-Create Folder                 8         0.00
-Delete File                   6         0.00
 Export Theme                  1         0.00
+Clear Orphaned Folders        1         0.00
+Create Folder                 1         0.00
 --------------------------------------------------
-Other Operations                        3.98
+Other Operations                        1.99
 --------------------------------------------------
 
 

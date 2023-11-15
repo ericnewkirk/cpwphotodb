@@ -1,0 +1,4 @@
+﻿PhoneTypeID	PhoneTypeText
+1	Cell
+2	Home
+3	Office

@@ -1,0 +1,154 @@
+﻿HelpID	FormName	HelpText	Position
+1	Species	Enter the common and Latin names of the species you expect to find in your photos, and assign keyboard shortcuts if desired.	1
+2	Species	You can edit the species list at any time through the switchboard form, or add species one at a time through the PhotoID form.	2
+3	EditShortcuts	Shortcuts are used when identifying the species present in photos through the PhotoID form.	1
+4	EditShortcuts	You can use any letter other than Z as a keyboard shortcut, but you can't assign the same shortcut letter to more than one species.	2
+5	PhotoID	Enter each species present in the photo in a separate line in the subform.	1
+6	PhotoID	If the species you need to enter doesn't appear in the dropdown list, you can add it by typing the common name into the species box and pressing enter.	2
+7	PhotoID	Use keyboard shortcuts speed up the photo ID process.  To see a list of shortcuts or add a new one, click the link below the previous/next buttons.  Don't forget about the 'z' key.	3
+8	PhotoID	Use the fields at the top of the form to filter by location or season, or to hide photos that have already had ID's assigned.	4
+9	PhotoID	Use the highlight checkbox to keep track of particularly interesting photos - you can query them out later using the PhotoViewer form.  You can also click or click and drag within the photo to tag a particular area.	5
+10	PhotoViewer	Photos that match your filter settings appear on the left - click a photo to bring it up on the main form or use the up and down arrows to scroll through the photos.	2
+11	PhotoViewer	The 'copy' and 'delete' buttons apply to all the photos loaded on the left side of the form, not just the photo displayed at center.	3
+12	PhotoViewer	The 'view query results' button will open a spreadsheet-like view of all the data for the photos that match your filters, with one row per photo.	4
+13	PhotoViewer	Press the 'edit species ID' button to edit the species for the photo loaded in the main form.  You can only edit IDs for one photo at a time from this form.	5
+14	PhotoViewer	Use the filters on the right side of the form to limit the photos that appear on the left.  The values available in filter dropdown lists are updated based on the other filters selected.	1
+15	PhotoIDLogin	You need to login before you can ID photos.  If your name isn't in the list, type it in and press enter to add it.  DO NOT ID photos while logged in as someone else - it screws everything up.  Bad.	1
+16	CopyPhotos	This form will copy all the photos currently loaded in PhotoViewer based on your filter settings.  Only the image files will be copied, not the database records for the photos.	1
+17	DeletePhotos	This form will delete all the photos currently loaded in the PhotoViewer form based on your current filter settings.  You can delete the photo (jpg) files themselves, the records in the database, or both.	1
+18	DeletePhotos	If you choose to delete the records from the database and retain the image files, you won't be able to delete the files later through the database.	2
+19	ExportQuery	This form will create a new results file based on the query you've built.  Select a format and specify a name and location for the new file.	1
+20	ExportQuery	If there is already a file with the name you've specified it will be overwritten.	2
+21	ExportQuery	Check the 'view output' box to open the file once it's created.	3
+22	ImportOptions	Use this form to add records to the database for all the photos in a specific folder.  You must specify the visit associated with the photos before you can import them.	1
+23	ImportOptions	Please be sure to select the correct visit for the photos you're importing.  This step is absolutely critical for the database to function properly.	2
+24	ImportOptions	You can import photos directly from an SD card or from a folder on this computer, a server, or an external hard drive.	3
+25	ImportOptions	Check the 'copy' box to copy the jpg files to a new location while they are added to the database.  If you choose to copy the photos, you also have the option to rename the new files.	4
+26	UpdateImagePath	Use this form if you've moved photos to a different folder and the database can't display them.  You can only update one folder at a time, so if you've moved a folder with lots of subfolders containing photos it may take a while.	1
+31	Visits	Select a location at the top of the form and visits for that location will appear below.	1
+32	Visits	You can't add new visits directly through this form - use the "Add New Visit" link at the bottom of the list once you've selected the appropriate location.	2
+35	OccupancyQueryBuilder	Use the options on the left to build an occupancy query for a particular species.  The results of your query appear in the preview pane to the right.  No results will display until a species has been selected.	1
+36	OccupancyQueryBuilder	Use the Update button to refresh the results after you've changed anything.  The other buttons are only available when the results in the preview pane match your current settings.	2
+37	OccupancyQueryBuilder	A relative start date is based on the date the camera was set.  You can specify the number of days after the camera was set to start the first occasion.  Absolute start uses the same date for all cameras, regardless of when they were set or pulled.	4
+38	OccupancyQueryBuilder	Start time is required when using an absolute start date.  For relative start dates, you can specify a start time or leave it blank to use the time the camera was first active.	5
+39	OccupancyQueryBuilder	The next box provides options for the number of occasions, the duration of each occasion in days or weeks, and the period to wait after one occasion before starting the next (buffer).	6
+40	OccupancyQueryBuilder	You can filter the results by location, study area, or year.  Regardless of whether you set these filters, the coordinates, study area ID,  and year will be included in the query results.	7
+42	OccupancyQueryBuilder	Use the 'Open Query' button to open the query results in a new tab.  The 'save' button allows you to save your current settings to a new query within the database so you can run it in the future.	8
+43	OccupancyQueryBuilder	The export button allows you to create a new spreadsheet or MARK input file with your current query results.	9
+44	UpdateDriveLetter	If you store photos on an external hard drive, the drive letter may change depending on the computer you're using and the other peripherals plugged in.	1
+45	UpdateDriveLetter	Use this form to update the photos table when the letter for the drive containing your photos has changed.	2
+46	UpdateImagePath	Click the 'Update drive letter' link if you store photos on an external hard drive and the drive letter is different now than when you imported them.	2
+47	ImportModule	Browse to the runtime database you want to import IDs from and click the 'import' button.  IDs will be added to the current database but the runtime file will be left unchanged.	1
+48	MergeSpecies	The species you selected for deletion in the species list is displayed in the "Species to delete" field.  Select the species that you want to merge it with in the "Species to keep" field.	1
+49	MergeSpecies	When you press merge, all of the detections with the species you're deleting will be switched to the species you select in "Species to keep."	2
+50	MergeSpecies	To exit without merging, press Cancel.  You will still have a chance to cancel the deletion if you've changed your mind.	3
+51	ReportOptions	Select a report from the dropdown box at the top of the form.  Filtering options are only available for certain reports and will only show up in the form when they're available.	1
+52	ReportOptions	All of these reports will look better printed in color but it's not absolutely necessary.  You can specify double-sided in the print dialog, but double check that you still have the correct orientation (landscape or portrait) if you choose to do so.	2
+54	Species	The Short Name field is only used in the species dropdown box on the PhotoViewer and PhotoID forms.  By default the full common name is used, but if a particular name is too long to display correctly you can enter an abbreviated version as the Short Name.	3
+55	StudyAreas	Before you can use the database, you must add at least one study area to the StudyAreas table.	1
+56	StudyAreas	Study areas should represent distinct groups of camera locations (geographic regions, control vs. treatment, habitat strata, etc.) that you may want to summarize separately or compare later on.	2
+57	StudyAreas	If your project doesn’t include distinct study areas, a single all-encompassing study area name will do.	3
+58	StudyAreas	The default abbreviation for a study area is the full study area name, but you can change it to something shorter to make reports and forms in the database look better.	4
+59	CameraLocations	Enter each camera location for your project on a separate line.	1
+60	CameraLocations	Study area and name are required for each location - coordinates and access notes are optional.	2
+62	Species	Click the delete button to remove a species from the list - if there are existing records for that species you can switch them to a remaining species ('merge' 2 species into one) or just get rid of them.	4
+63	DetectionDetails	Select a species, then add a detail associated with it (e.g. collared, juvenile).  You can also specify a shortcut to use on the Photo ID form.	1
+64	APZones	Use the 'Activity Analysis Zone' column to assign locations to custom groups.  Use whole numbers greater than zero to designate the different zones.	1
+65	APZones	If you leave the zone blank for a particular location, that location will be omitted from activity queries that use the custom zones option.	2
+66	ActivityQueryBuilder	Use the options on the left to build an activity pattern query.  The results of your query appear in the preview pane to the right.	1
+67	ActivityQueryBuilder	Use the Update button to refresh the results after you've changed anything.  The other buttons are only available when the results in the preview pane match your current settings.	2
+69	ActivityQueryBuilder	The quiet period specified is the required amount of time elapsed between included detections.  This applies to a given species at a given location.	3
+70	ActivityQueryBuilder	For example, if a quiet period of 30 minutes is specified and a grizzly bear is detected (photographed) at site #1 at 1:00AM, no subsequent photos of grizzly bears from site #1 will be included until at least 1:30AM.	4
+71	ActivityQueryBuilder	The default quiet period is 0 minutes, meaning all photos will be included in the results.  The preference in the literature seems to be 30 minutes between detections, but your data could require a longer or shorter quiet period.	5
+72	ActivityQueryBuilder	Under zone options, select 'Use study areas' to group locations into zones based on study area.  Select the custom zone option to assign your own zone for each location.	6
+73	ActivityQueryBuilder	The time field in your results can be calculated as decimal days ( = (hours*60+minutes)/1440) or radians ( = decimal days * 2pi).	7
+74	ActivityQueryBuilder	Location filters are relatively straightforward.  Date filters can be used in any combination and act independently.  In other words, you can specify a start date without an end or vice versa, and you can combine relative and absolute criteria.	8
+75	ActivityQueryBuilder	Note that one day is added to the end date (if specified) to include images taken on that date (cutoff = midnight the following day).  If you want to set a cutoff for an end date that includes a time, set the end date field to 24 hours before your cutoff.	9
+76	ActivityQueryBuilder	Check the boxes in the bottom section of the form to include additional fields in your results.  This can be helpful if you want to filter or modify your results further in Excel.	10
+77	ActivityQueryBuilder	This form depends on a temporary database created when the form is opened, and deleted when it is closed.  You may notice an extra copy of your database in the same folder with "AP" appended to the name.  It will be deleted when the form is closed.	11
+78	Visits	Click the "Edit" link to change visit data, delete a visit, add photos, adjust photo timestamps, or edit active dates.	3
+79	DeleteVisitPhotos	You can't delete this visit without dealing with the associated photos.  Choose one of the following options:	1
+80	DeleteVisitPhotos	Delete the records but keep the jpg files - this option makes sense if you no longer have another copy of your image files, or if you want to reimport the files later but don't need to change the filenames.	2
+81	DeleteVisitPhotos	Delete the records and jpg files -  if you renamed the photos with the wrong information when importing, you can use this option to delete the files and then re-import them to get the correct names.  MAKE SURE you have another copy of the files!	3
+82	DeleteVisitPhotos	Assign the photos to a different visit - if these photos actually belong to a different visit and there is nothing wrong with the filenames, use this option to transfer them to that visit.	4
+83	DeleteVisitPhotos	Note that either of the first two options will remove all ID information along with the photos.	5
+84	BatchPhotoID	For a long series of photos with the same content, select the first photo on the left side and the last photo on the right.	1
+85	BatchPhotoID	Enter the information that applies to all of the photos in the series at the bottom of the form and click apply.	2
+86	BatchPhotoID	If you've already added an ID for the current photo in the Photo ID form, that data will be used to populate the bottom of this form, but you can change it if necessary.	3
+87	MergeDetails	The detail you selected for deletion is displayed in the "Detail to delete" field.  Select the detail that you want to merge it with in the "Detail to keep" field.	1
+88	MergeDetails	When you press merge, all of the detections with the detail you're deleting will be switched to the detail you select in "Detail to keep."	2
+89	MergeDetails	To exit without merging, press Cancel.  You will still have a chance to cancel the deletion if you've changed your mind.	3
+90	CopyPhotos	Check the box to include a runtime database of you want to distribute these photos for ID.	2
+91	EditShortcuts	Detail shortcuts can be repeated as long as the species is different.	3
+92	EditActiveDates	By default, the active period for a particular visit is defined by the first and last photos taken for that visit.	1
+93	EditActiveDates	Dates that don't match the defaults are shown in red.  You can reset them by clicking 'Default' to the right of the record.	2
+94	EditActiveDates	See the database manual for a description of the situations when you might want to alter the active dates.	3
+95	EditActiveDatesSingle	By default, the active period for a particular visit is defined by the first and last photos taken for that visit.	1
+96	EditActiveDatesSingle	Dates that don't match the defaults are shown in red.  You can copy and paste the first and last photo dates back into the fields to set them back to the defaults, or alter the dates as necessary.	2
+97	EditActiveDatesSingle	See the database manual for a description of the situations when you might want to alter the active dates.	3
+98	MergeInd	The individual you selected for deletion is displayed in the "Individual to delete" field.  Select the individual that you want to merge it with in the "Individual to keep" field.	1
+99	MergeInd	When you press merge, all of the detections with the individual you're deleting will be switched to the individual you select in "Individual to keep."	2
+100	MergeInd	To exit without merging, press Cancel.  You will still have a chance to cancel the deletion if you've changed your mind.	3
+101	Individuals	Enter the species and name of each individual you expect to find in your photos.	1
+102	Individuals	Click the delete button to remove an individual from the list - if there are existing records for that individual you can switch them to a remaining individual ('merge' 2 into one) or just get rid of them.	2
+103	IndividualID	Photos in the filmstrip on the left represent an independent detection event.  Each event is identified by the first photo in the series.	1
+104	IndividualID	Assign individuals and/or totals by category to each detection using the subforms at the bottom.  It doesn't matter which animals appear in which photos - the data entered pertains to the entire sequence.	2
+105	IndividualID	You can specify the current photo as a reference photo for a particular individual by clicking the link in the subform once an individual ID has been assigned.	3
+106	IndividualID	When all individuals and/or totals have been added click the next button in the navigation bar to move on to the next detection event.	4
+107	IndividualID	Use the filters at the top of the form to view only detections for a particular species, location, or field season.  You can also filter out events that have already had individual IDs or totals entered.	5
+108	IndividualID	Click the links at the bottom right to access either the Individuals list or the form for grouping photos into independent detection events.	6
+109	IndividualID	If more than one independent event is represented by the photos on the left, you can split the event into 2 separate detections.  First select the photo that marks the beginning of a new event, then press the 'Split' button.	7
+110	IndividualID	If the current event is not independent of the previous one you can delete it by pressing the 'Delete' button.  Photos for the current detection will be added to the previous one.	8
+111	IndividualID	If the current event should start with a different photo, use the 'Adjust Start Time' button to select a different image for the start of this detection.	9
+112	IndividualID	Select an individual in the 'Reference Photos' drop down to open a separate form with reference photos for that individual.	10
+113	AddIndDetections	Independent detections are a way of grouping series of photos into independent events.  Use this form to generate independent detections for a particular species based on the time interval between photos.	1
+114	AddIndDetections	Independent detections are represented by the first photo in the series.  All subsequent photos are considered part of the same event until a new independent detection is reached.	2
+115	AddIndDetections	Once you've automatically assigned detection events through this form you can edit them as needed through the Individual ID form.	3
+116	AddIndDetections	Independent detections are necessary for ID'ing individuals for SECR or other indivual based analyses.  They also allow you to add summary information for an entire sequence of photos, which can then be used to estimate density or relative abundance.	4
+117	AdjustIndDet	Use this form to change which photo is considered the first one for a particular detection event.  Only photos after the previous event and before the next event are allowed.	1
+118	SECRQueryBuilder	Use the options on the left to build a mark-recapture query for a particular species.  The results of your query appear in the preview pane to the right.  No results will display until a species has been selected.	1
+119	SECRQueryBuilder	Use the Update button to refresh the results after you've changed anything.  The other buttons are only available when the results in the preview pane match your current settings.	2
+120	SECRQueryBuilder	A relative start date is based on the date the camera was set.  You can specify the number of days after the camera was set to start the first occasion.  Absolute start uses the same date for all cameras, regardless of when they were set or pulled.	3
+121	SECRQueryBuilder	Start time is required when using an absolute start date.  For relative start dates, you can specify a start time or leave it blank to use the time the camera was first active.	4
+122	SECRQueryBuilder	The next box provides options for the number of occasions and the duration of each occasion in days or weeks.  Since the results are based on independent events rather than individual photos there is no reason to create a buffer between occasions.	5
+124	SECRQueryBuilder	You can filter the results by location, study area, or year.  Regardless of whether you set these filters, the coordinates, study area,  and date will be included in the query results.	7
+125	SECRQueryBuilder	Use the 'Open Query' button to open the query results in a new tab.  The 'Save' button allows you to save your current settings to a new query within the database so you can run it in the future.	8
+126	SECRQueryBuilder	The 'Export' button allows you to create a new spreadsheet or R input file with your current query results.  A separate file or sheet (if creating a spreadsheet) will contain the detector file necessary for SECR analysis.	10
+127	SECRQueryBuilder	The next box provides options for populating the "SessionID" field in the input file.  You can create separate sessions based on study area or year, or you can group all detections into a single session.	6
+128	OccupancyQueryBuilder	If "Require 2 Observers" is checked only detections flagged as verified will be considered when generating 1s and 0s for occasion fields.  If the box is unchecked then detections marked 'pending' will be included as well.	3
+129	Visits	Click the "Module" link to create a PhotoID module containing all the photos from a particular check or pull visit.	4
+130	Visits	Visits with data in red are not associated with a set visit - photos for these visits will be unavailable in the PhotoID and PhotoViewer forms until a valid set visit is added.	5
+131	SingleVisitPopup	Use this form to edit existing camera visits.  You can change the visit type, visit date, or comments, but once a visit is entered you can't change it to a different location.	1
+132	SingleVisitPopup	Click the "Load Photos" button to import photos for this visit.	2
+133	SingleVisitPopup	Clik the "Delete Visit" button to permanently delete a visit.  If there are photos associated with the visit a form will guide you through the options for dealing with them.	3
+134	AddVisitPopup	Use this form to create new visit records for the selected location.  You can enter more than one visit at a time by clicking the "Next" button after the data for a visit has been entered.	1
+135	AddVisitPopup	Set visits identify when the camera was first activated, and cannot be associated with photos.	2
+136	AddVisitPopup	Check visits identify times when photos were collected but the camera remained active afterward.	3
+137	AddVisitPopup	Pull visits indicate that the camera was removed or turned off when the photos were collected.	4
+138	AddVisitPopup	When a new check or pull visit is entered the "Load Photos" button will appear.  Click it to import photos for the new visit directly through this form.	5
+139	CameraLocations	Use the link above the coordinate headers to switch between UTM and Lat/Long fields - coordinates can be entered in either format.  You can convert between UTM and Lat/Long using the Advanced Database Tasks option on the Switchboard.	3
+141	Species	You can assign species to groups (e.g. carnivores, cavity nesters) for occupancy analysis using the "Group" field.  Use the link at the bottom of the form to edit the list of available groups.	5
+142	VisitModule	This form creates a Photo ID module for the photos associated with a particular visit.  If the current visit has more than around 5000 photos consider using the PhotoViewer form to split the visit into 2 modules by date.	1
+143	SpeciesGroups	Use this form to enter/edit which groups are available in the Species form.  Groups can be used to combine several species when performing occupancy analysis.	1
+144	SpeciesGroups	For example, if you're interested in occupancy of cavity nesters you could enter "Cavity Nesters" here, then return to the Species form and assign the appropriate species to the Cavity Nesters group.	2
+145	SpeciesGroups	Finally you would use the Occupancy Query Builder to create a query with ones and zeros representing presence/absence of any of those species.	3
+146	QueryBuilders	Select a data type then click Go to open a query builder form.	1
+147	QueryBuilders	Activity queries create a list of times when a particular species was detected so they can be graphed or analyzed with programs such as the r package Overlap.	2
+148	QueryBuilders	Detection summaries retrieve the data entered into the "Totals by Category" subform of the Individual ID form.  These can be useful for calculating relative abundance or even density.	3
+149	QueryBuilders	Occupancy queries create an encounter history for a given species for use in occupancy analysis in PRESENCE or MARK.	4
+150	QueryBuilders	Mark-recapture queries require you to identify individual animals in your photos, and can be used with MARK, DENSITY, or the r package SECR to calculate abundance or density.	5
+151	QueryBuilders	Spatial queries can be linked from ArcMap or exported to kml to map your camera locations or results.	6
+152	AdjustImageDates	Use this form to adjust the timestamps of all photos associated with a particular visit.  Select the type of adjustment (add or subtract), the time interval, and the number, then click Go to update the records.	1
+153	AdjustImageDates	The image files themselves won't be affected in any way by this adjustment - any timestamp included in the image won't be changed, nor will the file properties (date taken, last modified, etc.).	2
+154	AdjustImageDates	The final two fields in the form show a preview of your adjustment so you can see the effect it will have on the first photo associated with this visit.	3
+155	DetectionSummaryQueryBuilder	Use the options on the left to build a detection summary query.  The results of your query appear in the preview pane to the right.	1
+156	DetectionSummaryQueryBuilder	Use the Update button to refresh the results after you've changed anything.  The other buttons are only available when the results in the preview pane match your current settings.	2
+157	DetectionSummaryQueryBuilder	Note that one day is added to the end date (if specified) to include images taken on that date (cutoff = midnight the following day).  If you want to set a cutoff for an end date that includes a time, set the end date field to 24 hours before your cutoff.	3
+160	SpatialQueryBuilder	Use the options on the left to build a spatial query.  The results of your query appear in the preview pane to the right.	1
+161	SpatialQueryBuilder	Use the Update button to refresh the results after you've changed anything.  The other buttons are only available when the results in the preview pane match your current settings.	2
+162	SpatialQueryBuilder	The export button allows you to save the query results as a .kml file for viewing in Google Earth (when using lat/long) or spreadsheet.	3
+163	SpatialQueryBuilder	If you entered location data in UTM but want to convert to Lat/Long (or the reverse) use the "Advanced Database Tasks" command on the Switchboard.	4
+164	FlatFileQueryBuilder	Flat files are a way to export photo and sepcies ID information to a single spreadsheet or text file for further processing or analysis in other programs.	1
+165	FlatFileQueryBuilder	Normal queries contain SpeciesID information in a single column, and will contain more than one row per photo in cases where multiple species are present in the same image.	2
+166	FlatFileQueryBuilder	Pivoted queries contain a separate column for each species present and contain a single row per photo.	3
+167	FlatFileQueryBuilder	You can choose whether to include both pending (only one observer) and verified (multiple observers) detections or only verified detections in your results.	4

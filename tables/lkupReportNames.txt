@@ -1,0 +1,9 @@
+﻿ReportID	ReportName	ReportNickname
+4	CameraSummaryNoSp	Camera Data Summary Without Species
+7	CameraSummary	Camera Data Summary With Species (slow)
+8	CameraPullChecklist	Camera Pull Checklist
+9	AccessNotes	Access Notes
+10	Observers	Contact List
+11	PhotoIDSummary	Photo ID Summary
+12	IndDetSummary	Individual Detections
+13	ObsComparison	Photo ID Observer Comparison

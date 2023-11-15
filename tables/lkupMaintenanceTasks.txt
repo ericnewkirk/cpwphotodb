@@ -1,0 +1,10 @@
+﻿TaskID	TaskName	TaskDescription
+1	Update Visits Table	Re-associates check and pull visits with set visits
+2	Update Photo Flags	Analyzes IDs for matches and updates flags in Photos table
+3	Resume Updating Photo Flags	Updates flags for remaining photos after canceling global update
+4	Reset All Deleted IDs To Pending	Restores all IDs that were deleted using the Compare IDs form
+5	Delete Independent Detection Data	Deletes all data related to sequences/individual ID for starting from scratch
+6	Convert UTM coordinates to Lat/Long	Populates Latitude and Longitude fields in CameraLocations table based on UTM fields
+7	Convert Lat/Long coordinates to UTM	Populates UTM fields in CameraLocations table based on Lat/Long fields
+8	Convert All UTMs to Same Zone	Changes UTM fields to matching zone
+9	Import Data	Imports all data from an older version of the database

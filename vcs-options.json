@@ -5,7 +5,7 @@
   },
   "Options": {
     "ExportFolder": "",
-    "ShowDebug": false,
+    "ShowDebug": true,
     "UseFastSave": true,
     "UseMergeBuild": false,
     "UseGitIntegration": false,
@@ -41,10 +41,61 @@
     "SanitizeLevel": 2,
     "ExtractThemeFiles": false,
     "TablesToExportData": {
+      "ChartHours": {
+        "Format": "Tab Delimited"
+      },
+      "Help": {
+        "Format": "Tab Delimited"
+      },
+      "LicenseHeadings": {
+        "Format": "Tab Delimited"
+      },
+      "LicenseItems": {
+        "Format": "Tab Delimited"
+      },
+      "lkupAgeClass": {
+        "Format": "Tab Delimited"
+      },
+      "lkupDetectionStatus": {
+        "Format": "Tab Delimited"
+      },
+      "lkupExports": {
+        "Format": "Tab Delimited"
+      },
+      "lkupGender": {
+        "Format": "Tab Delimited"
+      },
+      "lkupMaintenanceTasks": {
+        "Format": "Tab Delimited"
+      },
+      "lkupPhoneTypes": {
+        "Format": "Tab Delimited"
+      },
+      "lkupQueryBuilders": {
+        "Format": "Tab Delimited"
+      },
+      "lkupReportNames": {
+        "Format": "Tab Delimited"
+      },
+      "lkupVisitTypes": {
+        "Format": "Tab Delimited"
+      },
+      "Species": {
+        "Format": "Tab Delimited"
+      },
+      "SpeciesShortcuts": {
+        "Format": "Tab Delimited"
+      },
+      "SwitchboardItems": {
+        "Format": "Tab Delimited"
+      },
       "USysRegInfo": {
         "Format": "Tab Delimited"
       },
       "USysRibbons": {
+        "Format": "Tab Delimited"
+      },
+      "Version": {
         "Format": "Tab Delimited"
       }
     },

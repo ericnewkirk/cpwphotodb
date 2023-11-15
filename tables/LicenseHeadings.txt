@@ -1,0 +1,5 @@
+﻿HeadingID	HeadingNumber	HeadingText
+1	1	Definitions
+2	2	Grant of Rights
+3	3	Conditions and Limitations
+4	4	General Provisions

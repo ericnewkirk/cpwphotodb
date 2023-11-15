@@ -1,0 +1,5 @@
+﻿AgeClassID	AgeClassText	AgeClassAbbr
+1	Adult	A
+2	Juvenile	J
+3	Subadult	S
+4	Unknown Age	U

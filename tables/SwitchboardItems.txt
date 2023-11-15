@@ -1,0 +1,18 @@
+﻿ItemID	Caption	Action	Argument
+1	Import Photos	1	ImportOptions
+2	View Photos	1	PhotoViewer
+3	ID Photos	2	PhotoID
+4	Compare IDs	3	PhotoID
+5	Add or Edit Study Areas	1	StudyAreas
+7	Add or Edit Locations	1	CameraLocations
+8	Add or Edit Visits	1	Visits
+9	Edit the Species List	1	Species
+10	Edit Species Details	1	DetectionDetails
+11	Add or Edit Observers	1	Observers
+12	View or Print a Report	1	ReportOptions
+13	Import Photo ID Module	1	ImportModule
+14	Update Folder Location	1	UpdateImagePath
+15	Individual ID/Detection Summary	1	IndividualID
+16	Export Data for Analysis	1	QueryBuilders
+17	Advanced Database Tasks	1	Maintenance
+18	Quit	4	

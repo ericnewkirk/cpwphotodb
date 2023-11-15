@@ -1,0 +1,14 @@
+﻿ID	QueryName	QueryName2	Program	Extension
+1	ActivityPatternQuery		R package overlap	csv
+2	MarkRecaptureQuery		MARK	inp
+3	OccupancyQuery		MARK	inp
+4	SECRQuery	SECRDetectorQuery	R package secr	txt
+5	DetectionSummaryQuery			
+6	qryCameraLocationsLatLong		Google Earth	kml
+7	qryResultsByLocationLatLong		Google Earth	kml
+8	qryCameraLocationsUTM			
+9	qryResultsByLocationUTM			
+10	qryFlatFilePending		R, Python, etc.	csv
+11	qryFlatFileVerified		R, Python, etc.	csv
+12	qryPivotPending		R, Python, etc.	csv
+13	qryPivotVerified		R, Python, etc.	csv

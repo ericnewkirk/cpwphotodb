@@ -1,0 +1,4 @@
+﻿ID	VisitType
+1	Check
+2	Pull
+3	Set

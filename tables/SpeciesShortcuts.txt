@@ -1,0 +1,2 @@
+﻿SpeciesID	Shortcut
+0	N

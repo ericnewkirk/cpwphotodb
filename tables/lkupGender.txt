@@ -1,0 +1,4 @@
+﻿GenderID	GenderText	GenderAbbr
+1	Female	F
+2	Male	M
+3	Unknown	U

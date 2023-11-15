@@ -1,0 +1,7 @@
+﻿QueryBuilderID	FormName	AnalysisType	ListName
+1	ActivityQueryBuilder	Activity Pattern	Activity
+2	DetectionSummaryQueryBuilder	Relative Abundance/Density	Detection Summary
+3	OccupancyQueryBuilder	Occupancy	Occupancy
+4	SECRQueryBuilder	Mark-Recapture/SECR	Mark-Recapture
+5	SpatialQueryBuilder	Mapping	Spatial
+6	FlatFileQueryBuilder	Flat File	Flat File
